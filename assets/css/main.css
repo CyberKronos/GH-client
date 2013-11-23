@@ -1,0 +1,112 @@
+/* ROUNDING IMAGE BORDERS */
+.rounded_pics {
+  border-radius: 8px;
+}
+
+/* CLIENT CSS STYLING*/
+
+.client-pin { 
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #FDFDFD;
+    box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    -moz-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    border: 1px solid #E0E0E0;
+    border-radius: 10px;
+    font-size: 12px;
+    margin: 10px 0px 0px 10px;
+    padding: 5px 10px 5px 10px;
+}
+
+.pin-web { 
+    vertical-align: top;
+    background-color: #FDFDFD;
+    box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    border-radius: 10px;
+    font-size: 12px;
+    margin: 10px 0px 0px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.client-pin-content-holder {
+    overflow: hidden;
+}
+
+#hidden-header {
+    
+}
+
+.hidden-content {
+    display: none;
+    margin-top: 5px;
+    overflow: hidden;
+}
+
+.champion-wiki-side-by-side-image {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.champion-wiki-side-by-side-text {
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    font-size: 11px;
+}
+
+.champion-wiki-side-by-side-text ul {
+    list-style-type: none;
+}
+
+.champion-wiki-side-by-side-text p {
+    font-size: 11px;
+    line-height: 10px;
+    width: 140px;
+    padding-left: 14px; 
+}
+
+.champion-wiki-side-by-side-image img {
+    width: 65px;
+    height: 65px;
+}
+
+.esports-matches-background img {
+    padding: 5px;
+    width: 45px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.esports-matches-team1 {
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.esports-matches-team2 {
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.esports-matches-info {
+    text-align: center;
+    display: inline-block;
+    width: 125px;
+    vertical-align: top;
+    font-size: 10px;
+}
+
+iframe {
+    width: 100%;
+    height: auto;
+    margin: 10px 0 10px 0; 
+}
+
+.news-content img {
+    margin: 10px 0 10px 0;
+}
+
+
