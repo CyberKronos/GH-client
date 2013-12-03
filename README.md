@@ -1,6 +1,20 @@
  Release Notes
 =========
 
+## 0.1.1
+
+*Changes*
+
+- added streams card
+  - pulls list of online streams from TwitchTV using their API
+
+*Known Issues*
+
+- absolute link has still not been changed to relative
+- styling still not completely finished
+- lolscouter still in progress
+
+
 ## 0.1.0
 
 *Changes*

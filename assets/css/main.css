@@ -109,4 +109,22 @@ iframe {
     margin: 10px 0 10px 0;
 }
 
+/* STREAMS PAGE */
+.streams-container {}
 
+.streams-header {}
+
+.streams-subheader {
+    color: #000000;
+}
+
+.streams-image {
+    margin: 10px 0 0 0;
+}
+
+/* LOL SCOUTER POPUP IFRAME*/
+.lolscouter-popup {
+    width: 100%;
+    height: 1000px;
+    margin-top: -200px;
+}
