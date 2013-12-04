@@ -18,6 +18,16 @@
   <script src="assets/js/bootstrap.js"></script>
   <script type="text/javascript">
     $(document).ready(function() {
+
+      // Twitch.TV Live Stream Api Call
+      $.ajax({ 
+        url: 'http://api.justin.tv/api/stream/list.json?category=gaming&meta_game=League%20of%20Legends',
+        type: 'GET',
+        success: function(output) {
+          alert(output);
+        }
+      });
+
       $(".hidden-content").hide();
       //toggle the componenet with class msg_body
       $("#hidden-header").click(function()
