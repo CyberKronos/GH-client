@@ -1,6 +1,18 @@
  Release Notes
 =========
 
+## 0.2.0
+
+*Changes*
+
+- added lolscouter card
+- twitch stream card changed to fixed height with scrollable region
+
+*Known Issues*
+
+- absolute link has still not been changed to relative
+- IE7 styling still not completely finished
+
 ## 0.1.1
 
 *Changes*
