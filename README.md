@@ -12,6 +12,7 @@
 
 - absolute link has still not been changed to relative
 - IE7 styling still not completely finished
+- lolscouter card only supported for NA
 
 ## 0.1.1
 

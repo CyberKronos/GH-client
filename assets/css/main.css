@@ -6,7 +6,7 @@
 /* CLIENT CSS STYLING*/
 .client-pin { 
     width: 300px;
-    display: inline-block;
+    /*width: 100%;*/
     vertical-align: top;
     background-color: #FDFDFD;
     box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
@@ -126,9 +126,28 @@ iframe {
     margin: 10px 0 0 0;
 }
 
-/* LOL SCOUTER POPUP IFRAME*/
+/*LOL SCOUTER POPUP IFRAME*/
 .lolscouter-popup {
     width: 100%;
     height: 1000px;
     margin-top: -200px;
+}
+
+/*SUMMONER STATS POPUP IFRAME*/
+.summoner-stats-popup {
+    width: 900px;
+    height: 1000px;
+    margin-top: -235px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*SERVER STATUS CARD*/
+.server-status {
+    /*height: 500px;*/
+    /*margin-left: -200px;*/
+}   
+
+.server-status iframe {
+    /*right: 0;*/
 }

@@ -1,15 +1,15 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
 
 <div class="client-pin">
-  <h4 class="title"><b>LoL Scouter</b></h4>
+  <h4 class="title"><b>Summoner Statistics</b></h4>
   <p class="info">
-    <img src="assets/images/website_sources/lolnexus.png" height="18px" width="18px">
-    LoL Nexus
+    <img src="assets/images/website_sources/lolking.png" height="18px" width="18px">
+    LoL King
   </p>
   <div class="client-pin-content-holder">
 
-    <form class="navbar-search" role="form" action="content/overlay-cards/main-newsfeed/lolscouter_popup.php" target="POPUPW" onsubmit="POPUPW = window.open('about:blank','POPUPW');">
-      <input name="search" type="text" class="search-query" placeholder="Enter a player currently in match">
+    <form class="navbar-search" role="form" action="content/overlay-cards/main-newsfeed/summoner_stats_popup.php" target="POPUPW" onsubmit="POPUPW = window.open('about:blank','POPUPW');">
+      <input name="search" type="text" class="search-query" placeholder="Enter a summoner name">
       <!-- <div class="btn-toolbar">
         <div class="btn-group">
           <button name="NA" class="btn">NA</button>

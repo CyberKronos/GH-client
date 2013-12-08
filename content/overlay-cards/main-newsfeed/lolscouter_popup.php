@@ -14,7 +14,7 @@
       <div class="pin-web">
 
         <div class="client-pin-content-holder">
-          <iframe class="lolscouter-popup" seamless="seamless" scrolling="no" src="<?php echo $url; ?>"></iframe>    
+          <iframe class="lolscouter-popup" align="top" seamless="seamless" scrolling="no" src="<?php echo $url; ?>"></iframe>    
         </div>
       
       </div>
