@@ -16,18 +16,18 @@
 
 *List of Current Cards*
 
-1) Server status
-2) Lol Nexus match scouter
-3) Loldb summoner stats
-4) Twitch.TV streams (all users online and random)
-5) Item wiki
-6) Champion wiki
-7) New skin
-8) Champion freeweek
-9) Champion and skin sale
-10) General news
-11) Patch Notes
-12) Champion guides - WIP
+- Server status
+- Lol Nexus match scouter
+- Loldb summoner stats
+- Twitch.TV streams (all users online and random)
+- Item wiki
+- Champion wiki
+- New skin
+- Champion freeweek
+- Champion and skin sale
+- General news
+- Patch Notes
+- Champion guides - WIP
 
 ## 0.1.1
 
