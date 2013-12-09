@@ -27,6 +27,7 @@
 9) Champion and skin sale
 10) General news
 11) Patch Notes
+12) Champion guides - WIP
 
 ## 0.1.1
 
