@@ -3,11 +3,11 @@ include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.
 
 if (!empty($_GET['search'])) {
   $summonerName = $_GET['search'];
-  $url = "http://www.lolking.net/summoner/na/" . $summonerName;
+  $url = "http://loldb.gameguyz.com/analyze/search?search_text=" . $summonerName . "&c_server=1_10_6_2_3_4_5_7_8_9";
 }
 ?>
 
-<!-- <div class="container">
+<div class="container">
   <div class="row-fluid">
 
     <div class="span10">
@@ -24,4 +24,4 @@ if (!empty($_GET['search'])) {
 </div>
 
 </body>
-</html> -->
+</html>

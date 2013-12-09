@@ -3,8 +3,8 @@
 <div class="client-pin">
   <h4 class="title"><b>Summoner Statistics</b></h4>
   <p class="info">
-    <img src="assets/images/website_sources/lolking.png" height="18px" width="18px">
-    LoL King
+    <img src="assets/images/website_sources/gameguyz.png" height="18px" width="18px">
+    LoLDB Gameguyz
   </p>
   <div class="client-pin-content-holder">
 
