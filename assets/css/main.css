@@ -149,3 +149,22 @@ iframe {
     margin-top: -36px;
     height: 105px;
 }   
+
+/*CHAMPION GUIDES CARD*/
+.champion-imgs-holder {
+    padding-top: 15px;
+    height: 215px;
+    overflow-y: scroll;
+    border-top: #C0C0C0 1px solid;
+}
+
+.champion-holder {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    font-size: 11px;
+}
