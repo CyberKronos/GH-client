@@ -144,10 +144,8 @@ iframe {
 
 /*SERVER STATUS CARD*/
 .server-status {
-    /*height: 500px;*/
-    /*margin-left: -200px;*/
+    width: 1500px;
+    margin-left: -1093px;
+    margin-top: -36px;
+    height: 105px;
 }   
-
-.server-status iframe {
-    /*right: 0;*/
-}
