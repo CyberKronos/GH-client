@@ -10,23 +10,38 @@
 
     <form class="navbar-search" role="form" action="content/overlay-cards/main-newsfeed/lolscouter_popup.php" target="POPUPW" onsubmit="POPUPW = window.open('about:blank','POPUPW');">
       <input name="search" type="text" class="search-query" placeholder="Enter a player currently in match">
-      <!-- <div class="btn-toolbar">
-        <div class="btn-group">
-          <button name="NA" class="btn">NA</button>
-          <button name="EUW" class="btn">EUW</button>
-          <button name="EUNE" class="btn">EUNE</button>
-          <button name="BR" class="btn">BR</button>
-          <button name="TR" class="btn">TR</button>
-        </div>
-        <div class="btn-group">
-          <button name="RU" class="btn">RU</button>
-          <button name="LAN" class="btn">LAN</button>
-          <button name="LAS" class="btn">LAS</button>
-          <button name="OCE" class="btn">OCE</button>
-        </div>
-      </div> -->
+      
+      <div class="lolscouter-region-container">
+
+        <input type="radio" id="NA" name="region" value="NA" checked>
+        <label for="NA">NA</label>
+
+        <input type="radio" id="EUW" name="region"value="EUW">
+        <label for="EUW">EUW</label>
+
+        <input type="radio" id="EUNE" name="region" value="EUNE">
+        <label for="EUNE">EUNE</label>
+
+        <input type="radio" id="BR" name="region" value="BR">
+        <label for="BR">BR</label>
+
+        <input type="radio" id="TR" name="region"value="TR">
+        <label for="TR">TR</label>
+
+        <input type="radio" id="RU" name="region" value="RU">
+        <label for="RU">RU</label>
+
+        <input type="radio" id="LAN" name="region" value="LAN">
+        <label for="LAN">LAN</label>
+
+        <input type="radio" id="LAS" name="region"value="LAS">
+        <label for="LAS">LAS</label>
+
+        <input type="radio" id="OCE" name="region" value="OCE">
+        <label for="OCE">OCE</label>
+
+      </div>
     </form>
-    
 
   </div>
 </div>

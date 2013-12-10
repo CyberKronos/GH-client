@@ -3,7 +3,8 @@
 <?php 
 	if (!empty($_GET['search'])) {
 		$lolName = $_GET['search'];
-		$url = "http://www.lolnexus.com/NA/search?name=" . $lolName;
+    $lolRegion = $_GET['region'];
+		$url = "http://www.lolnexus.com/" . $lolRegion . "/search?name=" . $lolName;
 	}
 ?>
 

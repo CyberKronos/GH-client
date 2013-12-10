@@ -7,12 +7,12 @@
 
 - image links now working on champion guides card
 - added category field to news scraper and auto generate script
+- lolscouter card now supported for ALL regions
 
 *Known Issues*
 
 - absolute link has still not been changed to relative
 - IE7 styling still not completely finished
-- lolscouter card only supported for NA
 - champion guides card:
 	- only single word names work in search
 - To Do:
