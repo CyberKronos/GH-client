@@ -1,6 +1,38 @@
  Release Notes
 =========
 
+## 0.2.1
+
+*Changes*
+
+- added temporary:
+	- loldb summoner stats card
+	- champion guides card
+
+*Known Issues*
+
+- absolute link has still not been changed to relative
+- IE7 styling still not completely finished
+- lolscouter card only supported for NA
+- champion guides card:
+	- only single word names work in search
+	- images not functional
+
+*List of Current Cards*
+
+- Server status
+- Lol Nexus match scouter - TEMP
+- Loldb summoner stats - TEMP
+- Champion guides - TEMP
+- Twitch.TV streams (all users online and random)
+- Item wiki
+- Champion wiki
+- New skin
+- Champion freeweek
+- Champion and skin sale
+- General news
+- Patch Notes
+
 ## 0.2.0
 
 *Changes*
@@ -17,8 +49,9 @@
 *List of Current Cards*
 
 - Server status
-- Lol Nexus match scouter
-- Loldb summoner stats
+- Lol Nexus match scouter - TEMP
+- Loldb summoner stats - TEMP
+- Champion guides - TEMP
 - Twitch.TV streams (all users online and random)
 - Item wiki
 - Champion wiki
@@ -27,7 +60,6 @@
 - Champion and skin sale
 - General news
 - Patch Notes
-- Champion guides - WIP
 
 ## 0.1.1
 
