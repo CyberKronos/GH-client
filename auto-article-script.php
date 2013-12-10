@@ -10,6 +10,7 @@
     $b=$articleinfo->body->value;
     $pi=$articleinfo->preview_image->value;
     $pv=$articleinfo->preview_video->value;
+    $c=$articleinfo->category->value;
 
     $b = preg_replace('/(<[^>]+) style=".*?"/i', '$1', $b);
 
@@ -17,7 +18,7 @@
 
 <div class='client-pin'>
   <h4 class='title'><b>$t</b></h4>
-  <h5 class='sub-title'><b>News</b></h5>
+  <h5 class='sub-title'><b>$c</b></h5>
   
   <div class='client-pin-content-holder'>
   	$pi$pv
@@ -33,9 +34,6 @@
       <div id='collapseOne' class='accordion-body collapse'>
         <div class='accordion-inner'>
           $b
-          <p class='info'>
-            <a href='#'><b>View Full Post</b></a>
-          </p>
         </div>
       </div>
     </div>

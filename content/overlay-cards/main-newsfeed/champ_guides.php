@@ -3,472 +3,472 @@ include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.
 
 $champions = array(
     array("name" => "Aatrox",
-        "pic" => "assets/images/champion_thumbnails/aatrox.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=aatrox",
+        "pic" => "assets/images/champion_thumbnails/aatrox.png"
     ),
     array("name" => "Ahri",
-        "pic" => "assets/images/champion_thumbnails/ahri.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=ahri",
+        "pic" => "assets/images/champion_thumbnails/ahri.png"
     ),
     array("name" => "Akali",
-        "pic" => "assets/images/champion_thumbnails/akali.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=akali",
+        "pic" => "assets/images/champion_thumbnails/akali.png"
     ),
     array("name" => "Alistar",
-        "pic" => "assets/images/champion_thumbnails/alistar.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=alistar",
+        "pic" => "assets/images/champion_thumbnails/alistar.png"
     ),
     array("name" => "Amumu",
-        "pic" => "assets/images/champion_thumbnails/amumu.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=amumu",
+        "pic" => "assets/images/champion_thumbnails/amumu.png"
     ),
     array("name" => "Anivia",
-        "pic" => "assets/images/champion_thumbnails/anivia.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=anivia",
+        "pic" => "assets/images/champion_thumbnails/anivia.png"
     ),
     array("name" => "Annie",
-        "pic" => "assets/images/champion_thumbnails/annie.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=annie",
+        "pic" => "assets/images/champion_thumbnails/annie.png"
     ),
     array("name" => "Ashe",
-        "pic" => "assets/images/champion_thumbnails/ashe.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=ashe",
+        "pic" => "assets/images/champion_thumbnails/ashe.png"
     ),
     array("name" => "Blitzcrank",
-        "pic" => "assets/images/champion_thumbnails/blitzcrank.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=blitzcrank",
+        "pic" => "assets/images/champion_thumbnails/blitzcrank.png"
     ),
     array("name" => "Brand",
-        "pic" => "assets/images/champion_thumbnails/brand.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=brand",
+        "pic" => "assets/images/champion_thumbnails/brand.png"
     ),
     array("name" => "Caitlyn",
-        "pic" => "assets/images/champion_thumbnails/caitlyn.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=caitlyn",
+        "pic" => "assets/images/champion_thumbnails/caitlyn.png"
     ),              
     array("name" => "Cassiopeia",
-        "pic" => "assets/images/champion_thumbnails/cassiopeia.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=cassiopeia",
+        "pic" => "assets/images/champion_thumbnails/cassiopeia.png"
     ),                            
     array("name" => "Cho'Gath",
-        "pic" => "assets/images/champion_thumbnails/chogath.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=chogath",
+        "pic" => "assets/images/champion_thumbnails/chogath.png"
     ),             
     array("name" => "Corki",
-        "pic" => "assets/images/champion_thumbnails/corki.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=corki",
+        "pic" => "assets/images/champion_thumbnails/corki.png"
     ),                                     
     array("name" => "Darius",
-        "pic" => "assets/images/champion_thumbnails/darius.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=darius",
+        "pic" => "assets/images/champion_thumbnails/darius.png"
     ),
     array("name" => "Diana",
-        "pic" => "assets/images/champion_thumbnails/diana.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=diana",
+        "pic" => "assets/images/champion_thumbnails/diana.png"
     ),
     array("name" => "Draven",
-        "pic" => "assets/images/champion_thumbnails/draven.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=draven",
+        "pic" => "assets/images/champion_thumbnails/draven.png"
     ),
     array("name" => "Dr. Mundo",
-        "pic" => "assets/images/champion_thumbnails/drmundo.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=drmundo",
+        "pic" => "assets/images/champion_thumbnails/drmundo.png"
     ),
     array("name" => "Elise",
-        "pic" => "assets/images/champion_thumbnails/elise.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=elise",
+        "pic" => "assets/images/champion_thumbnails/elise.png"
     ),
     array("name" => "Evelynn",
-        "pic" => "assets/images/champion_thumbnails/evelynn.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=evelynn",
+        "pic" => "assets/images/champion_thumbnails/evelynn.png"
     ),
     array("name" => "Ezreal",
-        "pic" => "assets/images/champion_thumbnails/ezreal.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=ezreal",
+        "pic" => "assets/images/champion_thumbnails/ezreal.png"
     ),
     array("name" => "Fiora",
-        "pic" => "assets/images/champion_thumbnails/fiora.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=fiora",
+        "pic" => "assets/images/champion_thumbnails/fiora.png"
     ),
     array("name" => "Fiddle Sticks",
-        "pic" => "assets/images/champion_thumbnails/fiddleSticks.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=fiddleSticks",
+        "pic" => "assets/images/champion_thumbnails/fiddleSticks.png"
     ),
     array("name" => "Fizz",
-        "pic" => "assets/images/champion_thumbnails/fizz.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=fizz",
+        "pic" => "assets/images/champion_thumbnails/fizz.png"
     ),
     array("name" => "Galio",
-        "pic" => "assets/images/champion_thumbnails/galio.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=galio",
+        "pic" => "assets/images/champion_thumbnails/galio.png"
     ),
     array("name" => "Gangplank",
-        "pic" => "assets/images/champion_thumbnails/gangplank.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=gangplank",
+        "pic" => "assets/images/champion_thumbnails/gangplank.png"
     ),
     array("name" => "Garen",
-        "pic" => "assets/images/champion_thumbnails/garen.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=garen",
+        "pic" => "assets/images/champion_thumbnails/garen.png"
     ),
     array("name" => "Gragas",
-        "pic" => "assets/images/champion_thumbnails/gragas.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=gragas",
+        "pic" => "assets/images/champion_thumbnails/gragas.png"
     ),
     array("name" => "Graves",
-        "pic" => "assets/images/champion_thumbnails/graves.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=graves",
+        "pic" => "assets/images/champion_thumbnails/graves.png"
     ),
     array("name" => "Hecarim",
-        "pic" => "assets/images/champion_thumbnails/hecarim.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=hecarim",
+        "pic" => "assets/images/champion_thumbnails/hecarim.png"
     ),
     array("name" => "Heimerdinger",
-        "pic" => "assets/images/champion_thumbnails/heimerdinger.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=heimerdinger",
+        "pic" => "assets/images/champion_thumbnails/heimerdinger.png"
     ),
     array("name" => "Irelia",
-        "pic" => "assets/images/champion_thumbnails/irelia.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=irelia",
+        "pic" => "assets/images/champion_thumbnails/irelia.png"
     ),
     array("name" => "Janna",
-        "pic" => "assets/images/champion_thumbnails/janna.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=janna",
+        "pic" => "assets/images/champion_thumbnails/janna.png"
     ),
     array("name" => "Jarvan IV",
-        "pic" => "assets/images/champion_thumbnails/jarvanIV.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=jarvaniv",
+        "pic" => "assets/images/champion_thumbnails/jarvanIV.png"
     ),
     array("name" => "Jax",
-        "pic" => "assets/images/champion_thumbnails/jax.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=jax",
+        "pic" => "assets/images/champion_thumbnails/jax.png"
     ),
     array("name" => "Jayce",
-        "pic" => "assets/images/champion_thumbnails/jayce.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=jayce",
+        "pic" => "assets/images/champion_thumbnails/jayce.png"
     ),
     array("name" => "Jinx",
-        "pic" => "assets/images/champion_thumbnails/jinx.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=jinx",
+        "pic" => "assets/images/champion_thumbnails/jinx.png"
     ),
     array("name" => "Karma",
-        "pic" => "assets/images/champion_thumbnails/karma.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=karma",
+        "pic" => "assets/images/champion_thumbnails/karma.png"
     ),
     array("name" => "Karthus",
-        "pic" => "assets/images/champion_thumbnails/karthus.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=karthus",
+        "pic" => "assets/images/champion_thumbnails/karthus.png"
     ),
     array("name" => "Kassadin",
-        "pic" => "assets/images/champion_thumbnails/kassadin.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=kassadin",
+        "pic" => "assets/images/champion_thumbnails/kassadin.png"
     ),
     array("name" => "Katarina",
-        "pic" => "assets/images/champion_thumbnails/katarina.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=katarina",
+        "pic" => "assets/images/champion_thumbnails/katarina.png"
     ),
     array("name" => "Kayle",
-        "pic" => "assets/images/champion_thumbnails/kayle.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=kayle",
+        "pic" => "assets/images/champion_thumbnails/kayle.png"
     ),
     array("name" => "Kennen",
-        "pic" => "assets/images/champion_thumbnails/kennen.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=kennen",
+        "pic" => "assets/images/champion_thumbnails/kennen.png"
     ),
     array("name" => "Khazix",
-        "pic" => "assets/images/champion_thumbnails/khazix.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=khazix",
+        "pic" => "assets/images/champion_thumbnails/khazix.png"
     ),
     array("name" => "Kog'Maw",
-        "pic" => "assets/images/champion_thumbnails/kogmaw.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=kogmaw",
+        "pic" => "assets/images/champion_thumbnails/kogmaw.png"
     ),
     array("name" => "Leblanc",
-        "pic" => "assets/images/champion_thumbnails/leblanc.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=leblanc",
+        "pic" => "assets/images/champion_thumbnails/leblanc.png"
     ),
     array("name" => "Lee Sin",
-        "pic" => "assets/images/champion_thumbnails/leeSin.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=leeSin",
+        "pic" => "assets/images/champion_thumbnails/leeSin.png"
     ),
     array("name" => "Leona",
-        "pic" => "assets/images/champion_thumbnails/leona.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=leona",
+        "pic" => "assets/images/champion_thumbnails/leona.png"
     ),
     array("name" => "Lissandra",
-        "pic" => "assets/images/champion_thumbnails/lissandra.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=lissandra",
+        "pic" => "assets/images/champion_thumbnails/lissandra.png"
     ),
     array("name" => "Lucian",
-        "pic" => "assets/images/champion_thumbnails/lucian.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=lucian",
+        "pic" => "assets/images/champion_thumbnails/lucian.png"
     ),
     array("name" => "Lulu",
-        "pic" => "assets/images/champion_thumbnails/lulu.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=lulu",
+        "pic" => "assets/images/champion_thumbnails/lulu.png"
     ),
     array("name" => "Lux",
-        "pic" => "assets/images/champion_thumbnails/lux.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=lux",
+        "pic" => "assets/images/champion_thumbnails/lux.png"
     ),
     array("name" => "Malphite",
-        "pic" => "assets/images/champion_thumbnails/malphite.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=malphite",
+        "pic" => "assets/images/champion_thumbnails/malphite.png"
     ),
     array("name" => "Malzahar",
-        "pic" => "assets/images/champion_thumbnails/malzahar.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=malzahar",
+        "pic" => "assets/images/champion_thumbnails/malzahar.png"
     ),
     array("name" => "Maokai",
-        "pic" => "assets/images/champion_thumbnails/maokai.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=maokai",
+        "pic" => "assets/images/champion_thumbnails/maokai.png"
     ),
     array("name" => "Master Yi",
-        "pic" => "assets/images/champion_thumbnails/masterYi.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=masterYi",
+        "pic" => "assets/images/champion_thumbnails/masterYi.png"
     ),
     array("name" => "Miss Fortune",
-        "pic" => "assets/images/champion_thumbnails/missFortune.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=missFortune",
+        "pic" => "assets/images/champion_thumbnails/missFortune.png"
     ),
     array("name" => "Wukong",
-        "pic" => "assets/images/champion_thumbnails/wukong.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=wukong",
+        "pic" => "assets/images/champion_thumbnails/wukong.png"
     ),
     array("name" => "Mordekaiser",
-        "pic" => "assets/images/champion_thumbnails/mordekaiser.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=mordekaiser",
+        "pic" => "assets/images/champion_thumbnails/mordekaiser.png"
     ),
     array("name" => "Morgana",
-        "pic" => "assets/images/champion_thumbnails/morgana.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=morgana",
+        "pic" => "assets/images/champion_thumbnails/morgana.png"
     ),
     array("name" => "Nami",
-        "pic" => "assets/images/champion_thumbnails/nami.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=nami",
+        "pic" => "assets/images/champion_thumbnails/nami.png"
     ),
     array("name" => "Nasus",
-        "pic" => "assets/images/champion_thumbnails/nasus.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=nasus",
+        "pic" => "assets/images/champion_thumbnails/nasus.png"
     ),
     array("name" => "Nautilus",
-        "pic" => "assets/images/champion_thumbnails/nautilus.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=nautilus",
+        "pic" => "assets/images/champion_thumbnails/nautilus.png"
     ),
     array("name" => "Nidalee",
-        "pic" => "assets/images/champion_thumbnails/nidalee.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=nidalee",
+        "pic" => "assets/images/champion_thumbnails/nidalee.png"
     ),
     array("name" => "Nocturne",
-        "pic" => "assets/images/champion_thumbnails/nocturne.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=nocturne",
+        "pic" => "assets/images/champion_thumbnails/nocturne.png"
     ),
     array("name" => "Nunu",
-        "pic" => "assets/images/champion_thumbnails/nunu.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=nunu",
+        "pic" => "assets/images/champion_thumbnails/nunu.png"
     ),
     array("name" => "Olaf",
-        "pic" => "assets/images/champion_thumbnails/olaf.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=olaf",
+        "pic" => "assets/images/champion_thumbnails/olaf.png"
     ),
     array("name" => "Orianna",
-        "pic" => "assets/images/champion_thumbnails/orianna.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=orianna",
+        "pic" => "assets/images/champion_thumbnails/orianna.png"
     ),
     array("name" => "Pantheon",
-        "pic" => "assets/images/champion_thumbnails/pantheon.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=pantheon",
+        "pic" => "assets/images/champion_thumbnails/pantheon.png"
     ),
     array("name" => "Poppy",
-        "pic" => "assets/images/champion_thumbnails/poppy.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=poppy",
+        "pic" => "assets/images/champion_thumbnails/poppy.png"
     ),
     array("name" => "Quinn",
-        "pic" => "assets/images/champion_thumbnails/quinn.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=quinn",
+        "pic" => "assets/images/champion_thumbnails/quinn.png"
     ),
     array("name" => "Rammus",
-        "pic" => "assets/images/champion_thumbnails/rammus.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=rammus",
+        "pic" => "assets/images/champion_thumbnails/rammus.png"
     ),
     array("name" => "Renekton",
-        "pic" => "assets/images/champion_thumbnails/renekton.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=renekton",
+        "pic" => "assets/images/champion_thumbnails/renekton.png"
     ),
     array("name" => "Rengar",
-        "pic" => "assets/images/champion_thumbnails/rengar.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=rengar",
+        "pic" => "assets/images/champion_thumbnails/rengar.png"
     ),
     array("name" => "Riven",
-        "pic" => "assets/images/champion_thumbnails/riven.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=riven",
+        "pic" => "assets/images/champion_thumbnails/riven.png"
     ),
     array("name" => "Rumble",
-        "pic" => "assets/images/champion_thumbnails/rumble.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=rumble",
+        "pic" => "assets/images/champion_thumbnails/rumble.png"
     ),
     array("name" => "Ryze",
-        "pic" => "assets/images/champion_thumbnails/ryze.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=ryze",
+        "pic" => "assets/images/champion_thumbnails/ryze.png"
     ),
     array("name" => "Sejuani",
-        "pic" => "assets/images/champion_thumbnails/sejuani.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=sejuani",
+        "pic" => "assets/images/champion_thumbnails/sejuani.png"
     ),
     array("name" => "Shaco",
-        "pic" => "assets/images/champion_thumbnails/shaco.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=shaco",
+        "pic" => "assets/images/champion_thumbnails/shaco.png"
     ),
     array("name" => "Shen",
-        "pic" => "assets/images/champion_thumbnails/shen.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=shen",
+        "pic" => "assets/images/champion_thumbnails/shen.png"
     ),
     array("name" => "Shyvana",
-        "pic" => "assets/images/champion_thumbnails/shyvana.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=shyvana",
+        "pic" => "assets/images/champion_thumbnails/shyvana.png"
     ),
     array("name" => "Singed",
-        "pic" => "assets/images/champion_thumbnails/singed.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=singed",
+        "pic" => "assets/images/champion_thumbnails/singed.png"
     ),
     array("name" => "Sion",
-        "pic" => "assets/images/champion_thumbnails/sion.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=sion",
+        "pic" => "assets/images/champion_thumbnails/sion.png"
     ),
     array("name" => "Sivir",
-        "pic" => "assets/images/champion_thumbnails/sivir.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=sivir",
+        "pic" => "assets/images/champion_thumbnails/sivir.png"
     ),
     array("name" => "Skarner",
-        "pic" => "assets/images/champion_thumbnails/skarner.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=skarner",
+        "pic" => "assets/images/champion_thumbnails/skarner.png"
     ),
     array("name" => "Sona",
-        "pic" => "assets/images/champion_thumbnails/sona.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=sona",
+        "pic" => "assets/images/champion_thumbnails/sona.png"
     ),
     array("name" => "Soraka",
-        "pic" => "assets/images/champion_thumbnails/soraka.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=soraka",
+        "pic" => "assets/images/champion_thumbnails/soraka.png"
     ),
     array("name" => "Swain",
-        "pic" => "assets/images/champion_thumbnails/swain.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=swain",
+        "pic" => "assets/images/champion_thumbnails/swain.png"
     ),
     array("name" => "Syndra",
-        "pic" => "assets/images/champion_thumbnails/syndra.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=syndra",
+        "pic" => "assets/images/champion_thumbnails/syndra.png"
     ),
     array("name" => "Talon",
-        "pic" => "assets/images/champion_thumbnails/talon.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=talon",
+        "pic" => "assets/images/champion_thumbnails/talon.png"
     ),
     array("name" => "Taric",
-        "pic" => "assets/images/champion_thumbnails/taric.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=taric",
+        "pic" => "assets/images/champion_thumbnails/taric.png"
     ),
     array("name" => "Teemo",
-        "pic" => "assets/images/champion_thumbnails/teemo.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=teemo",
+        "pic" => "assets/images/champion_thumbnails/teemo.png"
     ),
     array("name" => "Thresh",
-        "pic" => "assets/images/champion_thumbnails/thresh.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=thresh",
+        "pic" => "assets/images/champion_thumbnails/thresh.png"
     ),
     array("name" => "Tristana",
-        "pic" => "assets/images/champion_thumbnails/tristana.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=tristana",
+        "pic" => "assets/images/champion_thumbnails/tristana.png"
     ),
     array("name" => "Trundle",
-        "pic" => "assets/images/champion_thumbnails/trundle.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=trundle",
+        "pic" => "assets/images/champion_thumbnails/trundle.png"
     ),
     array("name" => "Tryndamere",
-        "pic" => "assets/images/champion_thumbnails/tryndamere.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=tryndamere",
+        "pic" => "assets/images/champion_thumbnails/tryndamere.png"
     ),
     array("name" => "Twisted Fate",
-        "pic" => "assets/images/champion_thumbnails/twistedFate.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=twistedfate",
+        "pic" => "assets/images/champion_thumbnails/twistedFate.png"
     ),
     array("name" => "Twitch",
-        "pic" => "assets/images/champion_thumbnails/twitch.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=twitch",
+        "pic" => "assets/images/champion_thumbnails/twitch.png"
     ),
     array("name" => "Udyr",
-        "pic" => "assets/images/champion_thumbnails/udyr.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=udyr",
+        "pic" => "assets/images/champion_thumbnails/udyr.png"
     ),
     array("name" => "Urgot",
-        "pic" => "assets/images/champion_thumbnails/urgot.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=urgot",
+        "pic" => "assets/images/champion_thumbnails/urgot.png"
     ),
     array("name" => "Varus",
-        "pic" => "assets/images/champion_thumbnails/varus.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=varus",
+        "pic" => "assets/images/champion_thumbnails/varus.png"
     ),
     array("name" => "Vayne",
-        "pic" => "assets/images/champion_thumbnails/vayne.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=vayne",
+        "pic" => "assets/images/champion_thumbnails/vayne.png"
     ),
     array("name" => "Veigar",
-        "pic" => "assets/images/champion_thumbnails/veigar.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=veigar",
+        "pic" => "assets/images/champion_thumbnails/veigar.png"
     ),
     array("name" => "Vi",
-        "pic" => "assets/images/champion_thumbnails/vi.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=vi",
+        "pic" => "assets/images/champion_thumbnails/vi.png"
     ),
     array("name" => "Viktor",
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=viktor",
         "pic" => "assets/images/champion_thumbnails/viktor.png"
-
     ),
     array("name" => "Vladimir",
-        "pic" => "assets/images/champion_thumbnails/vladimir.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=vladimir",
+        "pic" => "assets/images/champion_thumbnails/vladimir.png"
     ),
     array("name" => "Volibear",
-        "pic" => "assets/images/champion_thumbnails/volibear.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=volibear",
+        "pic" => "assets/images/champion_thumbnails/volibear.png"
     ),
     array("name" => "Warwick",
-        "pic" => "assets/images/champion_thumbnails/warwick.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=warwick",
+        "pic" => "assets/images/champion_thumbnails/warwick.png"
     ),
     array("name" => "Xerath",
-        "pic" => "assets/images/champion_thumbnails/xerath.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=xerath",
+        "pic" => "assets/images/champion_thumbnails/xerath.png"
     ),
     array("name" => "Xin Zhao",
-        "pic" => "assets/images/champion_thumbnails/xinZhao.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=xinzhao",
+        "pic" => "assets/images/champion_thumbnails/xinZhao.png"
     ),
     array("name" => "Yasuo",
-        "pic" => "assets/images/champion_thumbnails/yasuo.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=yasuo",
+        "pic" => "assets/images/champion_thumbnails/yasuo.png"
     ),
     array("name" => "Yorick",
-        "pic" => "assets/images/champion_thumbnails/yorick.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=yorick",
+        "pic" => "assets/images/champion_thumbnails/yorick.png"
     ),
     array("name" => "Zac",
-        "pic" => "assets/images/champion_thumbnails/zac.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=zac",
+        "pic" => "assets/images/champion_thumbnails/zac.png"
     ),
     array("name" => "Zed",
-        "pic" => "assets/images/champion_thumbnails/zed.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=zed",
+        "pic" => "assets/images/champion_thumbnails/zed.png"
     ),
     array("name" => "Ziggs",
-        "pic" => "assets/images/champion_thumbnails/ziggs.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=ziggs",
+        "pic" => "assets/images/champion_thumbnails/ziggs.png"
     ),
     array("name" => "Zilean",
-        "pic" => "assets/images/champion_thumbnails/zilean.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=zilean",
+        "pic" => "assets/images/champion_thumbnails/zilean.png"
     ),
     array("name" => "Zyra",
-        "pic" => "assets/images/champion_thumbnails/zyra.png",
-
+        "link" => "content/overlay-cards/main-newsfeed/champ_guides_popup.php?search=zyra",
+        "pic" => "assets/images/champion_thumbnails/zyra.png"
     )
 );
 
@@ -496,7 +496,7 @@ array_multisort($sort['name'], SORT_ASC, $champions);
     <div class="champion-imgs-holder">
       <?php for ($row=0; $row < count($champions) ; $row++):  //prints the array elements ?>
         <div class="champion-holder">
-          <a href="#">
+          <a target="_blank" href="<?php echo $champions[$row]["link"]; ?>">
             <img src="<?php echo $champions[$row]["pic"]; ?>">
           </a>
           <div><?php echo $champions[$row]["name"] ?></div>

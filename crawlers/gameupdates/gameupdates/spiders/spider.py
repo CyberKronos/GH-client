@@ -54,6 +54,7 @@ class MySpider(CrawlSpider):
             item['preview_image'] = articles.select("//div[@class='file file-image file-image-jpeg']").extract()
             item['preview_video'] = articles.select("//div[@class='media-youtube-video media-youtube-1']").extract()
             item['body'] = articles.select("div[@class='field field-name-body field-type-text-with-summary field-label-hidden']").extract()
+            item['category'] = articles.select("div[@class='field field-name-field-category field-type-taxonomy-term-reference field-label-hidden']/text()").extract()
             items.append(item)
         return (items)
 
