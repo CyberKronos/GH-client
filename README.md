@@ -8,6 +8,7 @@
 - image links now working on champion guides card
 - added category field to news scraper and auto generate script
 - lolscouter card now supported for ALL regions
+- added twitch.tv pro gamer streams card
 
 *Known Issues*
 

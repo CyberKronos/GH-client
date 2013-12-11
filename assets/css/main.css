@@ -113,7 +113,7 @@ iframe {
     margin: 10px 0 10px 0;
 }
 
-/* STREAMS PAGE */
+/* RANDOM STREAMS PAGE/CARD */
 .streams-container {}
 
 .streams-header {}
@@ -124,6 +124,28 @@ iframe {
 
 .streams-image {
     margin: 10px 0 0 0;
+}
+
+/* PRO GAMERS STREAMS CARD */
+#pro-holder {
+    text-align: center;
+    font-size: 14px;
+}
+
+.pro-viewer-count {
+    display: inline-block;
+    /*border: black 1px solid;*/
+    width: 50px;
+    text-align: right;
+    padding: 5px 0 5px 0;
+}
+
+.pro-name {
+    /*border: black 1px solid;*/
+    width: 220px;
+    text-align: left;
+    display: inline-block;
+    padding: 5px 0 5px 0;
 }
 
 /*LOL SCOUTER CARD*/
