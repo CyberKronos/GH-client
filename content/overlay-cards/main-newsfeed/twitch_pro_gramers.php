@@ -54,7 +54,10 @@ $streamers = array(
 			"therainman",
 			"wingsofdeath",
 			"tsm_xpecial",
-			"yellowpete"
+			"yellowpete",
+			"phantoml0rd",
+			"trick2g",
+			"meteos"
 			);
 
 // This variable becomes one long url with the channel names stringed up behind it
@@ -79,7 +82,7 @@ foreach($streamers as $i =>$value) {
 	$title = $json_array[$i]['channel']['channel_url'];
 	$array = explode('/', $title);
 	$member = end($array);
-	$viewer = $json_array[$i]['stream_count'];
+	$viewer = $json_array[$i]['channel_count'];
 	onlinecheck($member, $viewer);
 	$checkedOnline[] = signin($member);
 }
