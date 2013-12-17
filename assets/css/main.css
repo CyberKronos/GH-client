@@ -229,9 +229,15 @@ input[type=radio]:checked + label {
 /*CHAMPION GUIDES CARD*/
 .champion-imgs-holder {
     padding-top: 15px;
-    height: 215px;
+    height: 185px;
     overflow-y: scroll;
     border-top: #C0C0C0 1px solid;
+    border-bottom: #C0C0C0 1px solid;
+}
+
+.guide-categories {
+    padding-top: 15px;
+    font-size: 12px;
 }
 
 .champion-holder {
