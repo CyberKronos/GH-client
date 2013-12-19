@@ -26,17 +26,167 @@
           </ul>
           <div class="tab-content">
             <div class="tab-pane active" id="sub-tab-runes1">
-              <img src="assets/images/guides/general_guides/runes/flat_ad.jpg">
+              <h5>Flat AD</h5>
+              <ul>
+                <li>9 Greater Mark of Attack Damage</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Attack Damage</li>
+              </ul>
+
+              <h5>Armor Penetration</h5>
+              <ul>
+                <li>9 Greater Mark of Armor Penetration</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Attack Damage</li>
+              </ul>
+
+              <h5>Lifesteal</h5>
+              <ul>
+                <li>9 Greater Mark of Attack Damage</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Lifesteal</li>
+              </ul>
+
+              <h5>Movement Speed</h5>
+              <ul>
+                <li>9 Greater Mark of Attack Damage</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Movement Speed</li>
+              </ul>
+
             </div>
             <div class="tab-pane" id="sub-tab-runes2">
-              <p>Howdy, I'm in Section 2.</p>
+              <h5>Standard Magic Pen</h5>
+              <ul>
+                <li>9 Greater Mark of Magic Penetration</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Ability Power</li>
+              </ul>
+
+              <h5>Standard Hybrid Pen</h5>
+              <ul>
+                <li>9 Greater Mark of Hybrid Penetration</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Scaling Ability Power</li>
+                <li>3 Greater Quintessence of Ability Power</li>
+              </ul>
+
+              <h5>Movement Speed Magic Pen</h5>
+              <ul>
+                <li>9 Greater Mark of Magic Penetration</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Movement Speed</li>
+              </ul>
+
+              <h5>Movement Speed Hybrid Pen</h5>
+              <ul>
+                <li>9 Greater Mark of Hybrid Penetration</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Scaling Ability Power</li>
+                <li>3 Greater Quintessence of Movement Speed</li>
+              </ul>
             </div>
+
             <div class="tab-pane" id="sub-tab-runes3">
-              <p>Howdy, I'm in Section 3.</p>
+              <h5>Flat AD</h5>
+              <ul>
+                <li>9 Greater Mark of Attack Damage</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Attack Damage</li>
+              </ul>
+
+              <h5>Armor / Hybrid Penetration</h5>
+              <ul>
+                <li>9 Greater Mark of Armor Penetration <b>OR</b> Hybrid Penetration</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Attack Damage</li>
+              </ul>
+
+              <h5>Lifesteal</h5>
+              <ul>
+                <li>9 Greater Mark of Attack Damage</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Lifesteal</li>
+              </ul>
+
+              <h5>Movement Speed</h5>
+              <ul>
+                <li>9 Greater Mark of Attack Damage</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Movement Speed</li>
+              </ul>
+
+              <h5>Attack Speed &amp; AP Jungler</h5>
+              <ul>
+                <li>9 Greater Mark of Attack Speed</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Ability Power</li>
+              </ul>
+
+              <h5>Attack Speed &amp; AD Jungler</h5>
+              <ul>
+                <li>9 Greater Mark of Attack Speed</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Attack Damage</li>
+              </ul>
+
+              <h5>Attack Speed &amp; Movement Speed</h5>
+              <ul>
+                <li>9 Greater Mark of Attack Speed</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Movement Speed</li>
+              </ul>
+
+              <h5>Attack Speed &amp; Lifesteal</h5>
+              <ul>
+                <li>9 Greater Mark of Attack Speed</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Lifesteal</li>
+              </ul>
             </div>
+
             <div class="tab-pane" id="sub-tab-runes4">
-              <p>Howdy, I'm in Section 4.</p>
+              <h5>General</h5>
+              <ul>
+                <li>9 Greater Mark of Hybrid Penetration</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Health</li>
+              </ul>
+
+              <h5>AP-based Utility</h5>
+              <ul>
+                <li>9 Greater Mark of Hybrid Penetration</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Ability Power</li>
+              </ul>
+
+              <h5>Cooldown Reduction &amp; Health</h5>
+              <ul>
+                <li>9 Greater Mark of Hybrid Penetration</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>3 Greater Glyph of Magic Resist</li>
+                <li>6 Greater Glyph of Cooldown Reduction</li>
+                <li>1 Greater Quintessence of Health</li>
+                <li>2 Greater Quintessence of Magic Resist</li>
+              </ul>
             </div>
+
           </div>
         </div>
 
