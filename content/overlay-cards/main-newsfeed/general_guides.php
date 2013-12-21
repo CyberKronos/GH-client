@@ -21,8 +21,9 @@
           <ul class="nav nav-pills">
             <li class="active"><a href="#sub-tab-runes1" data-toggle="tab">AD</a></li>
             <li><a href="#sub-tab-runes2" data-toggle="tab">AP</a></li>
-            <li><a href="#sub-tab-runes3" data-toggle="tab">Bruiser/Jungle</a></li>
-            <li><a href="#sub-tab-runes4" data-toggle="tab">Support</a></li>
+            <li><a href="#sub-tab-runes3" data-toggle="tab">Bruiser</a></li>
+            <li><a href="#sub-tab-runes4" data-toggle="tab">Jungle</a></li>
+            <li><a href="#sub-tab-runes5" data-toggle="tab">Support</a></li>
           </ul>
           <div class="tab-content">
             <div class="tab-pane active" id="sub-tab-runes1">
@@ -124,6 +125,24 @@
                 <li>9 Greater Seal of Armor</li>
                 <li>9 Greater Glyph of Magic Resist</li>
                 <li>3 Greater Quintessence of Movement Speed</li>
+              </ul>
+
+              <h5>AP Bruiser</h5>
+              <ul>
+                <li>9 Greater Mark of Hybrid Penetration</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Ability Power</li>
+              </ul>
+            </div>
+
+            <div class="tab-pane" id="sub-tab-runes4">
+              <h5>Flat AD</h5>
+              <ul>
+                <li>9 Greater Mark of Attack Damage</li>
+                <li>9 Greater Seal of Armor</li>
+                <li>9 Greater Glyph of Magic Resist</li>
+                <li>3 Greater Quintessence of Attack Damage</li>
               </ul>
 
               <h5>Attack Speed &amp; AP Jungler</h5>
