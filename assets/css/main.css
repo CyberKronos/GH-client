@@ -113,6 +113,17 @@ iframe {
     margin: 10px 0 10px 0;
 }
 
+/*VIEW MORE DROPDOWN FIXES*/
+.accordion-inner img {
+    margin: 10px 5px 10px 5px;
+    width: auto;
+    height: 164px;
+}
+
+.accordion-inner div {
+    display: inline-block;
+}
+
 /* RANDOM STREAMS PAGE/CARD */
 .streams-container {}
 
@@ -229,10 +240,11 @@ input[type=radio]:checked + label {
 /*CHAMPION GUIDES CARD*/
 .champion-imgs-holder {
     padding-top: 15px;
-    height: 185px;
+    height: 215px;
+    overflow: -moz-scrollbars-vertical; 
     overflow-y: scroll;
     border-top: #C0C0C0 1px solid;
-    border-bottom: #C0C0C0 1px solid;
+    /*border-bottom: #C0C0C0 1px solid;*/
 }
 
 .guide-categories {

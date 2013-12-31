@@ -11,6 +11,7 @@ class GameupdatesItem(Item):
     body = Field()
     preview_image = Field()
     preview_video = Field()
+    category_tag = Field()
     
 
     

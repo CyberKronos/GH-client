@@ -10,7 +10,7 @@
     $b=$articleinfo->body->value;
     $pi=$articleinfo->preview_image->value;
     $pv=$articleinfo->preview_video->value;
-    $c=$articleinfo->category->value;
+    $ct=$articleinfo->category_tag->value;
 
     $b = preg_replace('/(<[^>]+) style=".*?"/i', '$1', $b);
 
@@ -18,10 +18,13 @@
 
 <div class='client-pin'>
   <h4 class='title'><b>$t</b></h4>
-  <h5 class='sub-title'><b>$c</b></h5>
+  <h5 class='sub-title'><b>$ct</b></h5>
   
   <div class='client-pin-content-holder'>
-  	$pi$pv
+  	<div>
+      <img src="$pi">
+    </div>
+    <div> $pv </div>
   </div>
   <br/>
   <div class='accordion' id='accordion2'>
@@ -56,7 +59,7 @@ EOD;
     $string = preg_replace("/[\s]/", "_", $string);
 
     $openfile = "content/overlay-cards/header.php";
-	  $newcopiedfile = "content/overlay-cards/lol-official-site/".$string.".php";
+	  $newcopiedfile = "content/overlay-cards/main-newsfeed/lol_general_news/".$string.".php";
 
 		if (file_exists($newcopiedfile)) {
       echo "file exists";
