@@ -1,5 +1,23 @@
  Release Notes
 =========
+## 0.2.3
+
+*Changes*
+
+- patch notes - subcategorized
+- new skin - subcategorized 
+- general news - subcategorized
+- sales - subcategorized and reformat 
+- champ rotation - subcategorized
+
+*Known Issues*
+
+- change folder structure to Marko's diagram
+- IE7 styling still not completely finished
+- champion guides card:
+	- only single word names work in search
+- To Do:
+	- champ rotation - reformat 
 
 ## 0.2.2
 
