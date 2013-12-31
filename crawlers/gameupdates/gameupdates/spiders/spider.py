@@ -51,10 +51,10 @@ class MySpider(CrawlSpider):
         for articles in articles:
             item = GameupdatesItem()
             item['title'] = articles.select("h1[@class='article-title']/text()").extract()
-            item['preview_image'] = articles.select("//div[@class='file file-image file-image-jpeg']").extract()
+            item['preview_image'] = articles.select("//div[@class='file file-image file-image-jpeg']/a/@href").extract()
             item['preview_video'] = articles.select("//div[@class='media-youtube-video media-youtube-1']").extract()
             item['body'] = articles.select("div[@class='field field-name-body field-type-text-with-summary field-label-hidden']").extract()
-            item['category'] = articles.select("div[@class='field field-name-field-category field-type-taxonomy-term-reference field-label-hidden']/text()").extract()
+            item['category_tag'] = articles.select("//div[@class='field field-name-field-category field-type-taxonomy-term-reference field-label-hidden']/a/text()").extract()
             items.append(item)
         return (items)
 

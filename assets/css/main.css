@@ -113,6 +113,17 @@ iframe {
     margin: 10px 0 10px 0;
 }
 
+/*VIEW MORE DROPDOWN FIXES*/
+.accordion-inner img {
+    margin: 10px 5px 10px 5px;
+    width: auto;
+    height: 164px;
+}
+
+.accordion-inner div {
+    display: inline-block;
+}
+
 /* RANDOM STREAMS PAGE/CARD */
 .streams-container {}
 

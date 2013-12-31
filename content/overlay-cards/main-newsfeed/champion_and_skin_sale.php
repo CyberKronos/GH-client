@@ -1,12 +1,13 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
 <div class='client-pin'>
-  <h4 class='title'><b>Champion and skin sale: 11.01 - 11.04 </b></h4>
-  <h5 class='sub-title'><b>News</b></h5>
+  <h4 class='title'><b>Champion and skin sale: 12.24 - 12.27</b></h4>
+  <h5 class='sub-title'><b>Sales</b></h5>
   
   <div class='client-pin-content-holder'>
-  	<div id="file-5354" class="file file-image file-image-jpeg">
-  <a href="http://na.leagueoflegends.com/sites/default/files/styles/scale_xlarge/public/upload/2013.11.01.articlebanner.champskinsalewjl4n2l.jpg?itok=7UZGouYt" class="lightbox cboxElement"><img typeof="foaf:Image" src="http://na.leagueoflegends.com/sites/default/files/styles/wide_medium/public/upload/2013.11.01.articlebanner.champskinsalewjl4n2l.jpg?itok=dEj_sf-0" width="640" height="360" alt=""></a>
-</div>
+  	<div>
+      <img src="http://na.leagueoflegends.com/sites/default/files/styles/scale_xlarge/public/upload/2013.12.24.articlebanner.champskinsale236h6fsc_0.jpg?itok=odS31gwr">
+    </div>
+    <div>  </div>
   </div>
   <br/>
   <div class='accordion' id='accordion2'>
@@ -18,10 +19,87 @@
       </div>
       <div id='collapseOne' class='accordion-body collapse'>
         <div class='accordion-inner'>
-          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><p>Give your champions a new look with these skins, on sale for a limited time:</p><ul><li>Dragonslayer Vayne <strong>487</strong><strong> RP</strong></li></ul><p><span class="content-border"> <a href="http://riot-web-static.s3.amazonaws.com/images/news/Skins/Vayne_Dragonslayer_Splash.jpg" target="_blank"><img src="http://riot-web-static.s3.amazonaws.com/images/news/Skins/Vayne_Dragonslayer_Splash_thumb.jpg"></a> </span> <span class="content-border"> <a href="http://riot-web-static.s3.amazonaws.com/images/news/Skins/Vayne_Dragonslayer_SS.jpg" target="_blank"><img src="http://riot-web-static.s3.amazonaws.com/images/news/Skins/Vayne_Dragonslayer_SS_thumb.jpg"></a> </span></p><p> </p><ul><li>Ironscale Shyvana <strong>375</strong><strong> RP</strong></li></ul><p><span class="content-border"> <a href="http://riot-web-static.s3.amazonaws.com/images/news/Skins/Shyvana_Iron_Scale_Splash.jpg" target="_blank"><img src="http://riot-web-static.s3.amazonaws.com/images/news/Skins/Shyvana_Iron_Scale_Splash_thumb.jpg"></a> </span> <span class="content-border"> <a href="http://riot-web-static.s3.amazonaws.com/images/news/Skins/Shyvana_Iron_Scale_SS.jpg" target="_blank"><img src="http://riot-web-static.s3.amazonaws.com/images/news/Skins/Shyvana_Iron_Scale_SS_thumb.jpg"></a> </span></p><p> </p><ul><li>Sakura Karma <strong>260 RP</strong></li></ul><p><span class="content-border"> <a href="http://riot-web-static.s3.amazonaws.com/images/news/Skins/Karma_Sakura_Splash.jpg" target="_blank"><img src="http://riot-web-static.s3.amazonaws.com/images/news/Skins/Karma_Sakura_Splash_thumb.jpg"></a> </span> <span class="content-border"> <a href="http://riot-web-static.s3.amazonaws.com/images/news/Skins/Karma_Sakura_SS.jpg" target="_blank"><img src="http://riot-web-static.s3.amazonaws.com/images/news/Skins/Karma_Sakura_SS_thumb.jpg"></a> </span></p><p> </p><p>Add these champions to your roster, on sale for a limited time:</p><ul><li>Darius <strong>487 RP</strong></li></ul><p><span class="content-border"> <a href="http://riot-web-static.s3.amazonaws.com/images/news/Champ_Splashes/Darius_Splash.jpg" target="_blank"><img src="http://riot-web-static.s3.amazonaws.com/images/news/Champ_Splashes/Darius_Splash.jpg"></a> </span></p><p><strong> </strong></p><ul><li>Skarner <strong>440 RP</strong></li></ul><p><span class="content-border"> <a href="http://riot-web-static.s3.amazonaws.com/images/news/Champ_Splashes/Skarner_Splash.jpg" target="_blank"><img src="http://riot-web-static.s3.amazonaws.com/images/news/Champ_Splashes/Skarner_Splash.jpg"></a> </span></p><p> </p><ul><li>Gangplank <strong>395 RP</strong></li></ul><p><span class="content-border"> <a href="http://riot-web-static.s3.amazonaws.com/images/news/Champ_Splashes/Gangplank_Splash.jpg" target="_blank"><img src="http://riot-web-static.s3.amazonaws.com/images/news/Champ_Splashes/Gangplank_Splash.jpg"></a> </span></p></div>
-          <p class='info'>
-            <a href='#'><b>View Full Post</b></a>
-          </p>
+          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><p>Grab these champions and skins on sale for 50% off for a limited time:</p>
+<hr class="divider"><header class="header-subtle"><h4>Champion Sales</h4></header><p>Add these champions to your roster:</p>
+<div class="gs-container default-3-col">
+<div>
+<span class="content-border">
+<a href="http://gameinfo.na.leagueoflegends.com/en/game-info/champions/ahri/" target="_blank">
+<img src="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_0.jpg"></a>
+</span>
+<h4><a href="http://gameinfo.na.leagueoflegends.com/en/game-info/champions/ahri/" target="_blank">
+Ahri
+</a></h4>
+<strike>975</strike> 487 RP
+<p> </p>
+</div><div>
+<span class="content-border">
+<a href="http://gameinfo.na.leagueoflegends.com/en/game-info/champions/xerath/" target="_blank">
+<img src="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Xerath_0.jpg"></a>
+</span>
+<h4><a href="http://gameinfo.na.leagueoflegends.com/en/game-info/champions/xerath/" target="_blank">
+Xerath
+</a></h4>
+<strike>880</strike> 440 RP
+<p> </p>
+</div><div>
+<span class="content-border">
+<a href="http://gameinfo.na.leagueoflegends.com/en/game-info/champions/veigar/" target="_blank">
+<img src="http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Veigar_0.jpg"></a>
+</span>
+<h4><a href="http://gameinfo.na.leagueoflegends.com/en/game-info/champions/veigar/" target="_blank">
+Veigar
+</a></h4>
+<strike>585</strike> 292 RP
+<p> </p>
+</div></div>
+<hr class="divider"><header class="header-subtle"><h4>Skin Sales</h4></header><p>Give your champions a new look with these skins:</p>
+<div class="gs-container default-2-col">
+<div>
+<span class="content-border">
+<a class="lightbox cboxElement" href="http://riot-web-static.s3.amazonaws.com/images/news/Skin_Sales/Rumble_intheJungle_Splash.jpg">
+<img src="http://riot-web-static.s3.amazonaws.com/images/news/Skin_Sales/Rumble_intheJungle_Splash_thumb.jpg"></a>
+</span>
+</div>
+<div>
+<span class="content-border">
+<a class="lightbox cboxElement" href="http://riot-web-static.s3.amazonaws.com/images/news/Skin_Sales/Rumble_intheJungle_SS.jpg">
+<img src="http://riot-web-static.s3.amazonaws.com/images/news/Skin_Sales/Rumble_intheJungle_SS_thumb.jpg"></a>
+</span>
+</div>
+</div>
+<h4>Rumble in the Jungle</h4>
+<strike>975</strike> 487 RP<div class="gs-container default-2-col">
+<div>
+<span class="content-border">
+<a class="lightbox cboxElement" href="http://riot-web-static.s3.amazonaws.com/images/news/Skin_Sales/Jayce_FullMetal_Splash.jpg">
+<img src="http://riot-web-static.s3.amazonaws.com/images/news/Skin_Sales/Jayce_FullMetal_Splash_thumb.jpg"></a>
+</span>
+</div>
+<div>
+<span class="content-border">
+<a class="lightbox cboxElement" href="http://riot-web-static.s3.amazonaws.com/images/news/Skin_Sales/Jayce_FullMetal_SS.jpg">
+<img src="http://riot-web-static.s3.amazonaws.com/images/news/Skin_Sales/Jayce_FullMetal_SS_thumb.jpg"></a>
+</span>
+</div>
+</div>
+<h4>Full Metal Jayce</h4>
+<strike>1350</strike> 675 RP<div class="gs-container default-2-col">
+<div>
+<span class="content-border">
+<a class="lightbox cboxElement" href="http://riot-web-static.s3.amazonaws.com/images/news/Skin_Sales/Riven_CrimsonElite_Splash.jpg">
+<img src="http://riot-web-static.s3.amazonaws.com/images/news/Skin_Sales/Riven_CrimsonElite_Splash_thumb.jpg"></a>
+</span>
+</div>
+<div>
+<span class="content-border">
+<a class="lightbox cboxElement" href="http://riot-web-static.s3.amazonaws.com/images/news/Skin_Sales/Riven_CrimsonElite_SS.jpg">
+<img src="http://riot-web-static.s3.amazonaws.com/images/news/Skin_Sales/Riven_CrimsonElite_SS_thumb.jpg"></a>
+</span>
+</div>
+</div>
+<h4>Crimson Elite Riven</h4>
+<strike>520</strike> 260 RP</div>
         </div>
       </div>
     </div>
