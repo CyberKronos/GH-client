@@ -57,14 +57,17 @@ $streamers = array(
 			"yellowpete",
 			"phantoml0rd",
 			"trick2g",
-			"meteos"
+			"meteos",
+			"espeonbot",
+			"roflgator"
 			);
 
 // This variable becomes one long url with the channel names stringed up behind it
 // This url then fetches a json file from twitch with all the selected channels information
 $userGrab = "http://api.justin.tv/api/stream/list.json?channel=";
 
-//I use this array to compare with the steamers array. All users in this arrat are substracted from the steamers array and hence are //"offline"
+//I use this array to compare with the steamers array. All users in this array are 
+//substracted from the steamers array and hence are "offline"
 $checkedOnline = array (); 
 
 foreach($streamers as $i =>$value){
@@ -99,7 +102,7 @@ function onlinecheck($online, $viewers) {
 	//If the variable online is not equal to null, there is a good chance this person is currently streaming
 	if ($online != null)
     {
-        echo '
+    	echo '
     		<div class="pro-name">
         		<a target="_blank" href="http://www.twitch.tv/'.$online.'"> 
         			'.$online.'
@@ -124,8 +127,8 @@ function signin($person){
 ?>
 
 <?php
-//This part list all the people currently offline. Here the array with online users is compared with the total users.
-//online users are then removed from the total users array.
+//This part list all the people currently offline. Here the array with online users is compared 
+//with the total users. Online users are then removed from the total users array.
 	foreach ($streamers as $i => $value1) {
 		foreach($checkedOnline as $ii => $value2){
 			if($value1 == $value2){
@@ -134,10 +137,9 @@ function signin($person){
 		}
 			
 	}
-//print a nice list with people that can't currently be bothered with streaming their games	
-	// sort($streamers);
 ?>
 	
+<!-- Print a nice list with people that can't currently be bothered with streaming their games	 -->
 <?php foreach ($streamers as $i => $value): ?>
 	<!-- <a href="http://www.twitch.tv/<?php echo $value; ?>"> 
 		<strong><?php echo $value; ?></strong>

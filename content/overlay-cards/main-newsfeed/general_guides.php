@@ -1,7 +1,7 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
 
 <div class="client-pin">
-  <h4 class="title"><b>General Guides</b></h4>
+  <h4 class="title"><b>Season 4 General Guides</b></h4>
   <p class="info">
     <img src="assets/images/website_sources/solomid.png" height="18px" width="18px">
     Solomid
