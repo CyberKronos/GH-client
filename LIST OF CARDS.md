@@ -3,10 +3,11 @@ List of Cards
 
 ## List of Current Cards
 
-- Server status
+- Server status - TEMP
 - Lol Nexus match scouter - TEMP
 - Loldb summoner stats - TEMP
 - Champion guides - TEMP
+
 - Twitch.TV all streams
 - Twitch.TV pro gamer streams 
 - Item wiki
