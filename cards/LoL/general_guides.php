@@ -12,8 +12,8 @@
     <div class="guide-categories"> <!-- Only required for left/right tabs -->
       <ul class="nav nav-tabs">
         <li class="active"><a href="#tab1" data-toggle="tab">Runes</a></li>
-        <li><a href="#tab2" data-toggle="tab">Items</a></li>
-        <li><a href="#tab3" data-toggle="tab">Mastery</a></li>
+        <li><a href="#tab2" data-toggle="tab">Masteries</a></li>
+        <li><a href="#tab3" data-toggle="tab">Items</a></li>
       </ul>
       <div class="tab-content">
 
@@ -178,7 +178,7 @@
               </ul>
             </div>
 
-            <div class="tab-pane" id="sub-tab-runes4">
+            <div class="tab-pane" id="sub-tab-runes5">
               <h5>General</h5>
               <ul>
                 <li>9 Greater Mark of Hybrid Penetration</li>
@@ -194,23 +194,63 @@
                 <li>9 Greater Glyph of Magic Resist</li>
                 <li>3 Greater Quintessence of Ability Power</li>
               </ul>
-
-              <h5>Cooldown Reduction &amp; Health</h5>
-              <ul>
-                <li>9 Greater Mark of Hybrid Penetration</li>
-                <li>9 Greater Seal of Armor</li>
-                <li>3 Greater Glyph of Magic Resist</li>
-                <li>6 Greater Glyph of Cooldown Reduction</li>
-                <li>1 Greater Quintessence of Health</li>
-                <li>2 Greater Quintessence of Magic Resist</li>
-              </ul>
             </div>
 
           </div>
         </div>
 
         <div class="tab-pane" id="tab2">
-          <p>Howdy, I'm in Section 2.</p>
+          <ul class="nav nav-pills">
+            <li class="active"><a href="#sub-tab-masteries1" data-toggle="tab">AD</a></li>
+            <li><a href="#sub-tab-masteries2" data-toggle="tab">AP</a></li>
+            <li><a href="#sub-tab-masteries3" data-toggle="tab">Bruiser</a></li>
+            <li><a href="#sub-tab-masteries4" data-toggle="tab">Jungle</a></li>
+            <li><a href="#sub-tab-masteries5" data-toggle="tab">Support</a></li>
+          </ul>
+          <div class="tab-content">
+            <div class="tab-pane active" id="sub-tab-masteries1">
+              <h5>21/9/0</h5>
+              <img src="">
+
+              <h5>21/0/9</h5>
+              <img src="">
+            </div>
+
+            <div class="tab-pane" id="sub-tab-masteries2">
+              <h5>21/9/0</h5>
+              <img src="">
+
+              <h5>21/0/9</h5>
+              <img src="">
+            </div>
+
+            <div class="tab-pane" id="sub-tab-masteries3">
+              <h5>9/21/0 - AD-based</h5>
+              <img src="">
+
+              <h5>9/21/0 - AP-based</h5>
+              <img src="">
+            </div>
+
+            <div class="tab-pane" id="sub-tab-masteries4">
+              <h5>9/21/0</h5>
+              <img src="">
+
+              <h5>0/21/9</h5>
+              <img src="">
+            </div>
+
+            <div class="tab-pane" id="sub-tab-masteries5">
+              <h5>4/5/21</h5>
+              <img src="">
+
+              <h5>9/0/21</h5>
+              <img src="">
+
+              <h5>0/9/21</h5>
+              <img src="">
+            </div>
+          </div>
         </div>
 
         <div class="tab-pane" id="tab3">

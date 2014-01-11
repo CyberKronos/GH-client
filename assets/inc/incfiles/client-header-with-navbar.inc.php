@@ -12,6 +12,8 @@
   <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css"/>
   <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-responsive.css">
   <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+
+  <!-- TODO: CLEAN UP -->
   <link rel="stylesheet" type="text/css" href="assets/css/champions.css">
   <link rel="stylesheet" type="text/css" href="assets/css/items.css">
   <link rel="stylesheet" type="text/css" href="assets/css/streams.css">
@@ -19,6 +21,8 @@
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
   <script src="http://code.jquery.com/jquery-1.9.0.min.js"></script>
   <script src="assets/js/bootstrap.js"></script>
+
+  <!-- CUSTOM JS SCRIPTS -->
   <script type="text/javascript">
     $(document).ready(function() {
       $(".hidden-content").hide();

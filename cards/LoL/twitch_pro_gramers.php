@@ -11,6 +11,7 @@ error_reporting(0);
     <img src="assets/images/website_sources/twitchtv.png" height="18px" width="18px">
     Twitch TV
   </p>
+  <hr/>
   <div class="client-pin-content-holder" id="pro-holder">
   	<div class="pro-name"><strong>Streamer</strong></div>
 	<div class="pro-viewer-count"><strong>Viewers</strong></div>
@@ -59,7 +60,11 @@ $streamers = array(
 			"trick2g",
 			"meteos",
 			"espeonbot",
-			"roflgator"
+			"roflgator",
+			"hail9‎",
+			"mushisgosu‎",
+			"motroco_87",
+			"elementz‎",
 			);
 
 // This variable becomes one long url with the channel names stringed up behind it

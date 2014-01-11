@@ -3,17 +3,17 @@ List of Cards
 
 ## List of Current Cards
 
-- Server status
-- Lol Nexus match scouter - TEMP
-- Loldb summoner stats - TEMP
-- Champion guides - TEMP
-- Twitch.TV all streams
-- Twitch.TV pro gamer streams 
-- Item wiki
-- Champion wiki
-- New skin
-- Champion freeweek
-- Champion and skin sale
-- General news
-- Patch Notes
-
+- [STATS] Server status - TEMP
+- [STATS] Lol Nexus match scouter - TEMP
+- [STATS] Loldb summoner stats - TEMP
+- [GUIDES] Champion guides - TEMP
+- [GUIDES] General guides - Work in Progress
+- [VIDEOS] Twitch.TV all streams
+- [VIDEOS] Twitch.TV pro gamer streams 
+- [WIKI] Item wiki
+- [WIKI] Champion wiki
+- [NEWS] New skin
+- [NEWS] Champion freeweek
+- [NEWS] Champion and skin sale
+- [NEWS] General news
+- [NEWS] Patch Notes - TEMP
