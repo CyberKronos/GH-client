@@ -7,7 +7,7 @@ List of Cards
 - [STATS] Lol Nexus match scouter - TEMP
 - [STATS] Loldb summoner stats - TEMP
 - [GUIDES] Champion guides - TEMP
-- [GUIDES] General guides - Work in Progress
+- [GUIDES] General guides
 - [VIDEOS] Twitch.TV all streams
 - [VIDEOS] Twitch.TV pro gamer streams 
 - [WIKI] Item wiki

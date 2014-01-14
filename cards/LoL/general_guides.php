@@ -34,7 +34,9 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_magic_resist.png">9 Greater Glyph of Magic Resist</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_attack_damage.png">3 Greater Quintessence of Attack Damage</li>
               </ul>
+              
               <hr/>
+
               <h5>Armor Penetration</h5>
               <ul class="rune-list">
                 <li><img class="rune-image" src="assets/images/runes/greater_mark_of_armor_penetration.png">9 Greater Mark of Armor Penetration</li>
@@ -42,7 +44,9 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_magic_resist.png">9 Greater Glyph of Magic Resist</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_attack_damage.png">3 Greater Quintessence of Attack Damage</li>
               </ul>
+              
               <hr/>
+
               <h5>Lifesteal</h5>
               <ul class="rune-list">
                 <li><img class="rune-image" src="assets/images/runes/greater_mark_of_attack_damage.png">9 Greater Mark of Attack Damage</li>
@@ -50,7 +54,9 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_magic_resist.png">9 Greater Glyph of Magic Resist</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_lifesteal.png">3 Greater Quintessence of Lifesteal</li>
               </ul>
+              
               <hr/>
+
               <h5>Movement Speed</h5>
               <ul class="rune-list">
                 <li><img class="rune-image" src="assets/images/runes/greater_mark_of_attack_damage.png">9 Greater Mark of Attack Damage</li>
@@ -68,6 +74,8 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_magic_resist.png">9 Greater Glyph of Magic Resist</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_ability_power.png">3 Greater Quintessence of Ability Power</li>
               </ul>
+              
+              <hr/>
 
               <h5>Standard Hybrid Pen</h5>
               <ul class="rune-list">
@@ -76,6 +84,8 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_scaling_ability_power.png">9 Greater Glyph of Scaling Ability Power</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_ability_power.png">3 Greater Quintessence of Ability Power</li>
               </ul>
+              
+              <hr/>
 
               <h5>Movement Speed Magic Pen</h5>
               <ul class="rune-list">
@@ -84,6 +94,8 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_magic_resist.png">9 Greater Glyph of Magic Resist</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_movement_speed.png">3 Greater Quintessence of Movement Speed</li>
               </ul>
+              
+              <hr/>
 
               <h5>Movement Speed Hybrid Pen</h5>
               <ul class="rune-list">
@@ -102,6 +114,8 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_magic_resist.png">9 Greater Glyph of Magic Resist</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_attack_damage.png">3 Greater Quintessence of Attack Damage</li>
               </ul>
+              
+              <hr/>
 
               <h5>Armor / Hybrid Penetration</h5>
               <ul class="rune-list">
@@ -110,6 +124,8 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_magic_resist.png">9 Greater Glyph of Magic Resist</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_attack_damage.png">3 Greater Quintessence of Attack Damage</li>
               </ul>
+              
+              <hr/>
 
               <h5>Lifesteal</h5>
               <ul class="rune-list">
@@ -118,6 +134,8 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_magic_resist.png">9 Greater Glyph of Magic Resist</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_lifesteal.png">3 Greater Quintessence of Lifesteal</li>
               </ul>
+              
+              <hr/>
 
               <h5>Movement Speed</h5>
               <ul class="rune-list">
@@ -126,6 +144,8 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_magic_resist.png">9 Greater Glyph of Magic Resist</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_movement_speed.png">3 Greater Quintessence of Movement Speed</li>
               </ul>
+              
+              <hr/>
 
               <h5>AP Bruiser</h5>
               <ul class="rune-list">
@@ -144,6 +164,8 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_magic_resist.png">9 Greater Glyph of Magic Resist</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_attack_damage.png">3 Greater Quintessence of Attack Damage</li>
               </ul>
+              
+              <hr/>
 
               <h5>Attack Speed &amp; AP Jungler</h5>
               <ul class="rune-list">
@@ -152,6 +174,8 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_magic_resist.png">9 Greater Glyph of Magic Resist</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_ability_power.png">3 Greater Quintessence of Ability Power</li>
               </ul>
+              
+              <hr/>
 
               <h5>Attack Speed &amp; AD Jungler</h5>
               <ul class="rune-list">
@@ -160,6 +184,8 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_magic_resist.png">9 Greater Glyph of Magic Resist</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_attack_damage.png">3 Greater Quintessence of Attack Damage</li>
               </ul>
+              
+              <hr/>
 
               <h5>Attack Speed &amp; Movement Speed</h5>
               <ul class="rune-list">
@@ -168,6 +194,8 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_magic_resist.png">9 Greater Glyph of Magic Resist</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_movement_speed.png">3 Greater Quintessence of Movement Speed</li>
               </ul>
+              
+              <hr/>
 
               <h5>Attack Speed &amp; Lifesteal</h5>
               <ul class="rune-list">
@@ -186,6 +214,8 @@
                 <li><img class="rune-image" src="assets/images/runes/greater_glyph_of_magic_resist.png">9 Greater Glyph of Magic Resist</li>
                 <li><img class="rune-image" src="assets/images/runes/greater_quintessence_of_health.png">3 Greater Quintessence of Health</li>
               </ul>
+              
+              <hr/>
 
               <h5>AP-based Utility</h5>
               <ul class="rune-list">
@@ -211,6 +241,8 @@
             <div class="tab-pane active" id="sub-tab-masteries1">
               <h5>21/9/0</h5>
               <img src="assets/images/masteries/ADC-21-9-0.jpg">
+              
+              <hr/>
 
               <h5>21/0/9</h5>
               <img src="assets/images/masteries/ADC-21-0-9.jpg">
@@ -219,6 +251,8 @@
             <div class="tab-pane" id="sub-tab-masteries2">
               <h5>21/9/0</h5>
               <img src="assets/images/masteries/AP-21-9-0.jpg">
+              
+              <hr/>
 
               <h5>21/0/9</h5>
               <img src="assets/images/masteries/AP-21-0-9.jpg">
@@ -227,6 +261,8 @@
             <div class="tab-pane" id="sub-tab-masteries3">
               <h5>9/21/0 - AD-based</h5>
               <img src="assets/images/masteries/TopAD-9-21-0.jpg">
+              
+              <hr/>
 
               <h5>9/21/0 - AP-based</h5>
               <img src="assets/images/masteries/TopAP-9-21-0.jpg">
@@ -235,6 +271,8 @@
             <div class="tab-pane" id="sub-tab-masteries4">
               <h5>9/21/0 - AD-based</h5>
               <img src="assets/images/masteries/JunglerAD-9-21-0.jpg">
+              
+              <hr/>
 
               <h5>9/21/0 - AP-based</h5>
               <img src="assets/images/masteries/JunglerAP-9-21-0.jpg">
@@ -243,9 +281,13 @@
             <div class="tab-pane" id="sub-tab-masteries5">
               <h5>4/5/21</h5>
               <img src="assets/images/masteries/Support-4-5-21.jpg">
+              
+              <hr/>
 
               <h5>9/0/21 - AP-based</h5>
               <img src="assets/images/masteries/SupportAP-9-0-21.jpg">
+              
+              <hr/>
 
               <h5>0/9/21</h5>
               <img src="assets/images/masteries/Support-0-9-21.jpg">
