@@ -5,7 +5,7 @@ error_reporting(0);
 ?>
 
 <div class="client-pin">
-  <h4 class="title"><b>Pro Gamers</b></h4>
+  <h4 class="title"><b>Featured Channels</b></h4>
   <h5><b>Live Streams</b></h5>
   <p class="info">
     <img src="assets/images/website_sources/twitchtv.png" height="18px" width="18px">
@@ -65,6 +65,7 @@ $streamers = array(
 			"mushisgosu‎",
 			"motroco_87",
 			"elementz‎",
+			"chausterlol"
 			);
 
 // This variable becomes one long url with the channel names stringed up behind it
