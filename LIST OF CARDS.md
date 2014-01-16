@@ -17,3 +17,11 @@ List of Cards
 - [NEWS] Champion and skin sale
 - [NEWS] General news
 - [NEWS] Patch Notes - TEMP
+
+
+## Coming
+- [WIKI] Pro Team wikis
+- [WIKI] Pro Player Wikis
+- [ESPORTS] Live Match Scores
+- [ESPORTS] Tournament Updates
+- [ESPORTS] League Rankings (LCS)
