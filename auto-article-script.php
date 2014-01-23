@@ -58,8 +58,8 @@ EOD;
     //Convert whitespaces and underscore to dash
     $string = preg_replace("/[\s]/", "_", $string);
 
-    $openfile = "content/overlay-cards/header.php";
-	  $newcopiedfile = "content/overlay-cards/main-newsfeed/lol_general_news/".$string.".php";
+    $openfile = "cards/LoL/header.php";
+	  $newcopiedfile = "cards/LoL/lol_general_news/".$string.".php";
 
 		if (file_exists($newcopiedfile)) {
       echo "file exists";
