@@ -3,10 +3,10 @@ List of Cards
 
 ## List of Current Cards
 
-- [STATS] Server status - TEMP
 - [STATS] Lol Nexus match scouter - TEMP
 - [STATS] Loldb summoner stats - TEMP
 - [GUIDES] Champion guides - TEMP
+- [STATS] Server status
 - [GUIDES] General guides
 - [VIDEOS] Twitch.TV all streams
 - [VIDEOS] Twitch.TV pro gamer streams 
@@ -17,3 +17,11 @@ List of Cards
 - [NEWS] Champion and skin sale
 - [NEWS] General news
 - [NEWS] Patch Notes - TEMP
+
+
+## Coming
+- [WIKI] Pro Team wikis
+- [WIKI] Pro Player Wikis
+- [ESPORTS] Live Match Scores
+- [ESPORTS] Tournament Updates
+- [ESPORTS] League Rankings (LCS)
