@@ -1,0 +1,283 @@
+/* ROUNDING IMAGE BORDERS */
+.rounded_pics {
+  border-radius: 8px;
+}
+
+/* CLIENT CSS STYLING*/
+.client-pin { 
+    width: 300px;
+    /*width: 100%;*/
+    vertical-align: top;
+    background-color: #FDFDFD;
+    box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    -moz-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    -webkit-box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    border: 1px solid #E0E0E0;
+    border-radius: 10px;
+    font-size: 12px;
+    margin: 10px 0px 0px 10px;
+    padding: 5px 10px 5px 10px;
+}
+
+#client-pin-livestreams {
+    height: 600px;
+    overflow-y: scroll;
+}
+
+.pin-web { 
+    vertical-align: top;
+    background-color: #FDFDFD;
+    box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+    border-radius: 10px;
+    font-size: 12px;
+    margin: 10px 0px 0px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.client-pin-content-holder {
+    overflow: hidden;
+}
+
+#hidden-header {
+    
+}
+
+.hidden-content {
+    display: none;
+    margin-top: 5px;
+    overflow: hidden;
+}
+
+.champion-wiki-side-by-side-image {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.champion-wiki-side-by-side-text {
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    font-size: 11px;
+}
+
+.champion-wiki-side-by-side-text ul {
+    list-style-type: none;
+}
+
+.champion-wiki-side-by-side-text p {
+    font-size: 11px;
+    line-height: 10px;
+    width: 140px;
+    padding-left: 14px; 
+}
+
+.champion-wiki-side-by-side-image img {
+    width: 65px;
+    height: 65px;
+}
+
+.esports-matches-background img {
+    padding: 5px;
+    width: 45px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.esports-matches-team1 {
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.esports-matches-team2 {
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.esports-matches-info {
+    text-align: center;
+    display: inline-block;
+    width: 125px;
+    vertical-align: top;
+    font-size: 10px;
+}
+
+iframe {
+    width: 100%;
+    height: auto;
+    margin: 10px 0 10px 0; 
+}
+
+.news-content img {
+    margin: 10px 0 10px 0;
+}
+
+/*VIEW MORE DROPDOWN FIXES*/
+.content-border img {
+    margin: 10px 5px 10px 5px;
+    width: auto;
+    height: 164px;
+}
+
+.accordion-inner div {
+    display: inline-block;
+}
+
+/* RANDOM STREAMS PAGE/CARD */
+.streams-container {}
+
+.streams-header {}
+
+.streams-subheader {
+    color: #000000;
+}
+
+.streams-image {
+    margin: 10px 0 0 0;
+}
+
+/* PRO GAMERS STREAMS CARD */
+#pro-holder {
+    text-align: center;
+    font-size: 14px;
+}
+
+.pro-viewer-count {
+    display: inline-block;
+    /*border: black 1px solid;*/
+    width: 50px;
+    text-align: right;
+    padding: 5px 0 5px 0;
+}
+
+.pro-name {
+    /*border: black 1px solid;*/
+    width: 220px;
+    text-align: left;
+    display: inline-block;
+    padding: 5px 0 5px 0;
+}
+
+/*LOL SCOUTER CARD*/
+.lolscouter-region-container {
+    margin-top: 20px;   
+}
+
+.lolscouter-region {
+    display: inline-block;
+    text-align: center;
+    padding: 0 2px 0 2px;
+}
+
+input[type=radio] {
+    display:none;
+}
+ 
+input[type=radio] + label {
+    display:inline-block;
+    margin:-2px;
+    padding: 4px 12px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(255,255,255,0.75);
+    vertical-align: middle;
+    cursor: pointer;
+    background-color: #f5f5f5;
+    background-image: -moz-linear-gradient(top,#fff,#e6e6e6);
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#fff),to(#e6e6e6));
+    background-image: -webkit-linear-gradient(top,#fff,#e6e6e6);
+    background-image: -o-linear-gradient(top,#fff,#e6e6e6);
+    background-image: linear-gradient(to bottom,#fff,#e6e6e6);
+    background-repeat: repeat-x;
+    border: 1px solid #ccc;
+    border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+    border-bottom-color: #b3b3b3;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff',endColorstr='#ffe6e6e6',GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+    -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+}
+ 
+input[type=radio]:checked + label {
+    background-image: none;
+    outline: 0;
+    -webkit-box-shadow: inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05);
+    -moz-box-shadow: inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05);
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05);
+    background-color:#e0e0e0;
+}
+
+/*LOL SCOUTER POPUP IFRAME*/
+.lolscouter-popup {
+    width: 100%;
+    height: 1000px;
+    margin-top: -200px;
+}
+
+/*SUMMONER STATS POPUP IFRAME*/
+.summoner-stats-popup {
+    width: 900px;
+    height: 1870px;
+    margin-top: -221px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*SERVER STATUS CARD*/
+.server-status {
+    width: 1500px;
+    margin-left: -1093px;
+    margin-top: -36px;
+    height: 105px;
+}   
+
+/*CHAMPION GUIDES CARD*/
+.champion-imgs-holder {
+    padding-top: 15px;
+    height: 215px;
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
+    border-top: #C0C0C0 1px solid;
+    /*border-bottom: #C0C0C0 1px solid;*/
+}
+
+.champion-holder {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    font-size: 11px;
+}
+
+.champ-guides-popup {
+    width: 100%;
+    height: 1000px;
+    margin-top: -240px;
+
+}
+
+/*GENERAL GUIDE CARD*/
+.guide-categories {
+    padding-top: 15px;
+    font-size: 12px;
+}
+
+.rune-list {
+    list-style-type: none;
+    margin: 0;
+}
+
+.rune-image {
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+}
