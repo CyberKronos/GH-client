@@ -1,0 +1,20 @@
+
+<?php include('C:/Program Files (x86)/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<div class='client-pin'>
+  <h4 class='title'><b>
+										Spirit Visage									</b></h4>
+  <h5 class='sub-title'><b>Item Wiki</b></h5>
+  
+  <div class='client-pin-content-holder'>
+  <span class="lol-icon large with-tooltip"> <span style="background:url(//lkimg.zamimg.com/shared/riot/images/items/3065_64.png)no-repeat; display: inline-block; width: 90px; height: 90px;"></span><a class="no-href"></a><!-- if this were an icon we want to actually link to somewhere: <a href="http://www.lolking.net/item/123/the-bloodthirster"> --> </span>
+  <div class="lol-tt-cost">
+										Cost: <em class="lol-money gold upgrade-cost">2750</em>
+									</div>
+    <br/>
+  <div class="lol-tt-desc">
+								       <span>+400 Health</span><br><span>+55 Magic Resist</span><br><span>+20 Health Regen per 5 seconds</span><br><span>+20% Cooldown Reduction</span><br><br><strong>UNIQUE Passive:</strong> Increases self-healing, Health Regen, Lifesteal, and Spell Vamp effects by 20%.								       									</div>
+  </div>
+</div>
+</div>
+</body>
+</html>
