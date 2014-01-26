@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-tree = ET.parse('crawlers/lolchamps/lolchamps/lolchamps_products.xml')
+tree = ET.parse('crawlers/lolchamps/champwiki/lolchamps_products.xml')
 root = tree.getroot()
 
 for item in root.findall('item'):
@@ -64,7 +64,7 @@ for item in root.findall('item'):
 	r_level = item.find('skill_r_level').find('value').text
 
 	html_string = """
-	<?php include('C:/Program Files (x86)/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+	<?php include('C:/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
 	<div class="client-pin">
 	<h4 class="title"><b> """ + name.encode('utf-8','ignore') + """ </b></h4>
 	<h5 class="sub-title"><b>Champion Wiki</b></h5> 

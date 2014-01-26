@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-tree = ET.parse('crawlers/lolitems/lolitems/lolitems_products.xml')
+tree = ET.parse('crawlers/lolitems/itemwiki/lolitems_products.xml')
 root = tree.getroot()
 
 for item in root.findall('item'):
@@ -13,7 +13,7 @@ for item in root.findall('item'):
 	desc = desc.replace(' style="color: #FFDB4C;"', '') 
 
 	html_string = """
-<?php include('C:/Program Files (x86)/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include('C:/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
 <div class='client-pin'>
   <h4 class='title'><b>""" + title + """</b></h4>
   <h5 class='sub-title'><b>Item Wiki</b></h5>
