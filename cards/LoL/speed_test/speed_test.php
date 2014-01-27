@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include('C:/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
 
 <div class="client-pin">
   <h4 class="title"><b>Internet Speed Test</b></h4>
@@ -10,7 +10,7 @@
   <div class="client-pin-content-holder">
 
     <!-- BEGIN SPEED TEST - DO NOT ALTER BELOW-->
-    <script type="text/javascript" src="cards/LoL/Mini/speedtest/swfobject.js?v=2.2"></script>
+    <script type="text/javascript" src="cards/LoL/speed_test/speedtest/swfobject.js?v=2.2"></script>
         <div id="mini-demo">
           Speedtest.net Mini requires at least version 8 of Flash. Please <a href="http://get.adobe.com/flashplayer/">update your client</a>.
         </div><!--/mini-demo-->
@@ -25,7 +25,7 @@
           allowScriptAccess: "always"
         };
         var attributes = {};
-        swfobject.embedSWF("cards/LoL/Mini/speedtest.swf?v=2.1.8", "mini-demo", "300", "200", "9.0.0", "speedtest/expressInstall.swf", flashvars, params, attributes);
+        swfobject.embedSWF("cards/LoL/speed_test/speedtest.swf?v=2.1.8", "mini-demo", "300", "200", "9.0.0", "speedtest/expressInstall.swf", flashvars, params, attributes);
       </script>
     <!-- END SPEED TEST - DO NOT ALTER ABOVE -->
 

@@ -8,8 +8,8 @@
   </p>
   <div class="client-pin-content-holder">
 
-    <form class="navbar-search" role="form" action="content/overlay-cards/main-newsfeed/summoner_stats_popup.php" target="POPUPW" onsubmit="POPUPW = window.open('about:blank','POPUPW');">
-      <input name="search" type="text" class="search-query" placeholder="Enter a summoner name">
+    <form class="navbar-search" role="form" action="cards/LoL/summoner_stats_popup.php" target="POPUPW" onsubmit="POPUPW = window.open('about:blank','POPUPW');">
+      <input name="search" type="text" placeholder="Enter a summoner name">
       <!-- <div class="btn-toolbar">
         <div class="btn-group">
           <button name="NA" class="btn">NA</button>

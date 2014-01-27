@@ -8,8 +8,8 @@
   </p>
   <div class="client-pin-content-holder">
 
-    <form class="navbar-search" role="form" action="content/overlay-cards/main-newsfeed/lolscouter_popup.php" target="POPUPW" onsubmit="POPUPW = window.open('about:blank','POPUPW');">
-      <input name="search" type="text" class="search-query" placeholder="Enter a player currently in match">
+    <form class="navbar-search" role="form" action="cards/LoL/lolscouter_popup.php" target="POPUPW" onsubmit="POPUPW = window.open('about:blank','POPUPW');">
+      <input name="search" type="text" class="card-search" placeholder="Enter a player currently in match">
       
       <div class="lolscouter-region-container">
 

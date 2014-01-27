@@ -170,6 +170,10 @@ iframe {
     padding: 0 2px 0 2px;
 }
 
+.navbar-search input {
+    width: 286px;
+}
+
 input[type=radio] {
     display:none;
 }
