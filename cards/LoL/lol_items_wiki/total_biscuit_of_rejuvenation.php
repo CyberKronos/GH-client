@@ -1,5 +1,5 @@
 
-<?php include('C:/Program Files (x86)/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include('C:/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
 <div class='client-pin'>
   <h4 class='title'><b>
 										Total Biscuit of Rejuvenation									</b></h4>
@@ -15,10 +15,6 @@
 								       <strong>Click to Consume:</strong> Restores 80 Health and 50 Mana over 10 seconds.								       									</div>
   </div>
 </div>
-</div>
-</body>
-</html>
-/div>
 </div>
 </body>
 </html>
