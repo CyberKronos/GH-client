@@ -7,6 +7,8 @@ from scrapy.item import Item, Field
 
 class LolesportsItem(Item):
     # define the fields for your item here like:
+    na_lcs = Field()
+    
     europe = Field()
     na = Field()
     lpl = Field()
