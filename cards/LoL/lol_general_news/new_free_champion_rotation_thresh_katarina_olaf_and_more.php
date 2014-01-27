@@ -1,5 +1,5 @@
 
-<?php include(C:/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
 <div class='client-pin'>
   <h4 class='title'><b>New free champion rotation: Thresh, Katarina, Olaf and more!</b></h4>
   <h5 class='sub-title'><b>Free Rotation</b></h5>

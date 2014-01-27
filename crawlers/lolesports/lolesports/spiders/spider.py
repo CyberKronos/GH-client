@@ -1,6 +1,7 @@
 from scrapy.spider import BaseSpider
 from scrapy.selector import HtmlXPathSelector
 from lolesports.items import LolesportsItem
+import xml.etree.ElementTree as ET
 
 class MySpider(BaseSpider):
     name = "lolesports"
@@ -12,13 +13,12 @@ class MySpider(BaseSpider):
         
         item = LolesportsItem()
         
-        item['na_lcs'] = hxs.select("//div[@id='lcsnatab']").extract()
-        # item['europe'] = hxs.select("//div[@class='_toggle tab1 tabs']/div[3]/div[1]/table").extract()
-        # item['na'] = hxs.select("//div[@class='_toggle tab1 tabs']/div[3]/div[2]/table").extract()
-        # item['lpl'] = hxs.select("//div[@class='_toggle tab2 tabs']/div[2]/div[1]/table").extract()
-        # item['ogn'] = hxs.select("//div[@class='_toggle tab3 tabs']/div[3]/div[1]/table").extract()
-        # item['gpl'] = hxs.select("//div[@class='_toggle tab4 tabs']/div[2]/div[1]/table").extract()
-        # item['tesl'] = hxs.select("//div[@class='_toggle tab5 tabs']/div[2]/div[1]/table").extract()
-        # item['tlc'] = hxs.select("//div[@class='_toggle tab6 tabs']/div[2]/div[1]/table").extract()
+        item['europe'] = hxs.select("//div[@class='_toggle tab1 tabs']/div[3]/div[1]/table").extract()
+        item['na'] = hxs.select("//div[@class='_toggle tab1 tabs']/div[3]/div[2]/table").extract()
+        item['lpl'] = hxs.select("//div[@class='_toggle tab2 tabs']/div[2]/div[1]/table").extract()
+        item['ogn'] = hxs.select("//div[@class='_toggle tab3 tabs']/div[3]/div[1]/table").extract()
+        item['gpl'] = hxs.select("//div[@class='_toggle tab4 tabs']/div[2]/div[1]/table").extract()
+        item['tesl'] = hxs.select("//div[@class='_toggle tab5 tabs']/div[2]/div[1]/table").extract()
+        item['tlc'] = hxs.select("//div[@class='_toggle tab6 tabs']/div[2]/div[1]/table").extract()
         
         return item

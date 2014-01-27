@@ -170,10 +170,6 @@ iframe {
     padding: 0 2px 0 2px;
 }
 
-.navbar-search input {
-    width: 286px;
-}
-
 input[type=radio] {
     display:none;
 }
@@ -251,6 +247,11 @@ input[type=radio]:checked + label {
     /*border-bottom: #C0C0C0 1px solid;*/
 }
 
+.guide-categories {
+    padding-top: 15px;
+    font-size: 12px;
+}
+
 .champion-holder {
     display: inline-block;
     vertical-align: top;
@@ -267,21 +268,4 @@ input[type=radio]:checked + label {
     height: 1000px;
     margin-top: -240px;
 
-}
-
-/*GENERAL GUIDE CARD*/
-.guide-categories {
-    padding-top: 15px;
-    font-size: 12px;
-}
-
-.rune-list {
-    list-style-type: none;
-    margin: 0;
-}
-
-.rune-image {
-    width: 40px;
-    height: 40px;
-    margin-right: 5px;
 }
