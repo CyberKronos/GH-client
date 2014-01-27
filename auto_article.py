@@ -15,7 +15,7 @@ for item in root.findall('item'):
 		title = item.find('title').find('value').text
 
 		html_string = """
-<?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include(C:/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
 <div class='client-pin'>
   <h4 class='title'><b>""" + title.encode('utf-8','ignore') + """</b></h4>
   <h5 class='sub-title'><b>""" + category_tag.encode('utf-8','ignore') + """</b></h5>
