@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-tree = ET.parse('crawlers/lolitems/itemwiki/lolitems_products.xml')
+tree = ET.parse('crawlers/lolitems/lolitems/lolitems_products.xml')
 root = tree.getroot()
 
 for item in root.findall('item'):

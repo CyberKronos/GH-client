@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-tree = ET.parse('crawlers/lolchamps/champwiki/lolchamps_products.xml')
+tree = ET.parse('crawlers/lolchamps/lolchamps/lolchamps_products.xml')
 root = tree.getroot()
 
 for item in root.findall('item'):

@@ -1,7 +1,7 @@
 from scrapy.contrib.spiders import CrawlSpider, Rule
 from scrapy.contrib.linkextractors.sgml import SgmlLinkExtractor
 from scrapy.selector import HtmlXPathSelector
-from test.items import GameupdatesItem
+from gameupdates.items import GameupdatesItem
 
 class MySpider(CrawlSpider):
     name = "gameupdates"
