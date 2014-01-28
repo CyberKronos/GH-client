@@ -6,8 +6,10 @@ root = tree.getroot()
 for item in root.findall('item'):
   
 	if item.find('title').find('value') is not None:
-
-		preview_image = item.find('preview_image').find('value').text
+		if item.find('preview_image').find('value') is not None:
+			preview_image = item.find('preview_image').find('value').text
+		else:
+			preview_image = ' '
 		if item.find('preview_video').find('value') is not None:
 			preview_video = item.find('preview_video').find('value').text
 		else:
@@ -17,7 +19,7 @@ for item in root.findall('item'):
 		title = item.find('title').find('value').text
 
 		html_string = """
-<?php include(C:/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
 <div class='client-pin'>
   <h4 class='title'><b>""" + title.encode('utf-8','ignore') + """</b></h4>
   <h5 class='sub-title'><b>""" + category_tag.encode('utf-8','ignore') + """</b></h5>

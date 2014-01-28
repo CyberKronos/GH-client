@@ -1,5 +1,5 @@
 from scrapy.spider import BaseSpider
-from scrapy.selector import HtmlXPathSelector
+from scrapy.selector import Selector
 from items import LolchampsItem
 
 class MySpider(BaseSpider):
@@ -122,67 +122,53 @@ class MySpider(BaseSpider):
     ]
 
     def parse(self, response):
-        hxs = HtmlXPathSelector(response)
+        hxs = Selector(response)
         
         item = LolchampsItem()
         
-        item['champ_pic'] = hxs.select("//table[@id='champion_info-upper']/tr[1]/td[1]/a/img").extract()
-        item['champ_name'] = hxs.select("//table[@id='champion_info-upper']/tr[1]/td[2]/span[1]/text()").extract()
-        item['champ_title'] = hxs.select("//table[@id='champion_info-upper']/tr[1]/td[2]/span[2]/text()").extract()
-        item['champ_tags'] = hxs.select("//table[@id='champion_info-upper']/tr[2]/td/table/tr/td[1]/a/text()").extract()
-        item['champ_ip_cost'] = hxs.select("//table[@id='champion_info-upper']/tr[1]/td[3]/span/a[1]/text()").extract()
-        item['champ_rp_cost'] = hxs.select("//table[@id='champion_info-upper']/tr[1]/td[3]/span/a[3]/text()").extract()
-        item['champ_release_date'] = hxs.select("//table[@id='champion_info-upper']/tr[2]/td/table/tr/td[2]/a/text()").extract()
+        item['champ_pic'] = hxs.xpath("//table[@id='champion_info-upper']/tr[1]/td[1]/a/img").extract()
+        item['champ_name'] = hxs.xpath("//table[@id='champion_info-upper']/tr[1]/td[2]/span[1]/text()").extract()
+        item['champ_title'] = hxs.xpath("//table[@id='champion_info-upper']/tr[1]/td[2]/span[2]/text()").extract()
+        item['champ_tags'] = hxs.xpath("//table[@id='champion_info-upper']/tr[2]/td/table/tr/td[1]/a/text()").extract()
+        item['champ_ip_cost'] = hxs.xpath("//table[@id='champion_info-upper']/tr[1]/td[3]/span/a[1]/text()").extract()
+        item['champ_rp_cost'] = hxs.xpath("//table[@id='champion_info-upper']/tr[1]/td[3]/span/a[3]/text()").extract()
+        item['champ_release_date'] = hxs.xpath("//table[@id='champion_info-upper']/tr[2]/td/table/tr/td[2]/a/text()").extract()
 
-        item['champ_stats_health'] = hxs.select("//table[@id='champion_info-lower']/tr/td[2]/table/tr[2]/td[2]").extract()
-        item['champ_stats_health_regen'] = hxs.select("//table[@id='champion_info-lower']/tr/td[2]/table/tr[3]/td[2]").extract()
-        item['champ_stats_mana'] = hxs.select("//table[@id='champion_info-lower']/tr/td[2]/table/tr[4]/td[2]").extract()
-        item['champ_stats_mana_regen'] = hxs.select("//table[@id='champion_info-lower']/tr/td[2]/table/tr[5]/td[2]").extract()
-        item['champ_stats_range'] = hxs.select("//table[@id='champion_info-lower']/tr/td[2]/table/tr[6]/td[2]").extract()
-        item['champ_stats_ad'] = hxs.select("//table[@id='champion_info-lower']/tr/td[2]/table/tr[2]/td[4]").extract()
-        item['champ_stats_as'] = hxs.select("//table[@id='champion_info-lower']/tr/td[2]/table/tr[3]/td[4]").extract()
-        item['champ_stats_armor'] = hxs.select("//table[@id='champion_info-lower']/tr/td[2]/table/tr[4]/td[4]").extract()
-        item['champ_stats_mr'] = hxs.select("//table[@id='champion_info-lower']/tr/td[2]/table/tr[5]/td[4]").extract()
-        item['champ_stats_ms'] = hxs.select("//table[@id='champion_info-lower']/tr/td[2]/table/tr[6]/td[4]").extract()
+        item['champ_stats_health'] = hxs.xpath("//table[@id='champion_info-lower']/tr/td[2]/table/tr[2]/td[2]/text()").extract()
+        item['champ_stats_health_regen'] = hxs.xpath("//table[@id='champion_info-lower']/tr/td[2]/table/tr[3]/td[2]/text()").extract()
+        item['champ_stats_mana'] = hxs.xpath("//table[@id='champion_info-lower']/tr/td[2]/table/tr[4]/td[2]/text()").extract()
+        item['champ_stats_mana_regen'] = hxs.xpath("//table[@id='champion_info-lower']/tr/td[2]/table/tr[5]/td[2]/text()").extract()
+        item['champ_stats_range'] = hxs.xpath("//table[@id='champion_info-lower']/tr/td[2]/table/tr[6]/td[2]/text()").extract()
+        item['champ_stats_ad'] = hxs.xpath("//table[@id='champion_info-lower']/tr/td[2]/table/tr[2]/td[4]/text()").extract()
+        item['champ_stats_as'] = hxs.xpath("//table[@id='champion_info-lower']/tr/td[2]/table/tr[3]/td[4]/text()").extract()
+        item['champ_stats_armor'] = hxs.xpath("//table[@id='champion_info-lower']/tr/td[2]/table/tr[4]/td[4]/text()").extract()
+        item['champ_stats_mr'] = hxs.xpath("//table[@id='champion_info-lower']/tr/td[2]/table/tr[5]/td[4]/text()").extract()
+        item['champ_stats_ms'] = hxs.xpath("//table[@id='champion_info-lower']/tr/td[2]/table/tr[6]/td[4]/text()").extract()
 
-        item['skill_passive_name'] = hxs.select("//div[@class='skill skill_innate']/div[@class='skill_header']/span/text()").extract()
-        item['skill_passive_description'] = hxs.select("//div[@class='skill skill_innate']/div[@class='skill_wrapper']/div[2]/div[1]").extract()
-        item['skill_passive_stats'] = hxs.select("//div[@class='skill skill_innate']/div[@class='skill_header']/ul").extract()  
-        item['skill_passive_picture'] = hxs.select("//div[@class='skill skill_innate']/div[@class='skill_wrapper']/div[1]/img/@data-src").extract()   
+        item['skill_passive_name'] = hxs.xpath("//div[@class='skill skill_innate']/div[@class='skill_header']/span/text()").extract()
+        item['skill_passive_description'] = hxs.xpath("//div[@class='skill skill_innate']/div[@class='skill_wrapper']/div[2]/div[1]").extract()
+        item['skill_passive_stats'] = hxs.xpath("//div[@class='skill skill_innate']/div[@class='skill_header']/ul").extract()  
+        item['skill_passive_picture'] = hxs.xpath("//div[@class='skill skill_innate']/div[@class='skill_wrapper']/div[1]/img/@data-src").extract()   
 
-        item['skill_q_name'] = hxs.select("//div[@class='skill skill_q']/div[@class='skill_header']/span/text()").extract()
-        item['skill_q_description'] = hxs.select("//div[@class='skill skill_q']/div[@class='skill_wrapper']/div[2]/div[1]").extract()
-        item['skill_q_picture'] = hxs.select("//div[@class='skill skill_q']/div[@class='skill_wrapper']/div[1]/img/@data-src").extract()
-        item['skill_q_stats'] = hxs.select("//div[@class='skill skill_q']/div[@class='skill_header']/ul").extract()
-        item['skill_q_level'] = hxs.select("//div[@class='skill skill_q']/div[@class='skill_wrapper']/div[2]/div[2]").extract()
+        item['skill_q_name'] = hxs.xpath("//div[@class='skill skill_q']/div[@class='skill_header']/span/text()").extract()
+        item['skill_q_description'] = hxs.xpath("//div[@class='skill skill_q']/div[@class='skill_wrapper']/div[2]/div[1]").extract()
+        item['skill_q_picture'] = hxs.xpath("//div[@class='skill skill_q']/div[@class='skill_wrapper']/div[1]/img/@data-src").extract()
+        item['skill_q_stats'] = hxs.xpath("//div[@class='skill skill_q']/div[@class='skill_header']/ul").extract()
 
-        item['skill_name'] = hxs.select("//div[@class='skill']/div[@class='skill_header']/span/text()").extract()
-        item['skill_description'] = hxs.select("//div[@class='skill']/div[@class='skill_wrapper']/div[2]/div[1]").extract()
-        item['skill_picture'] = hxs.select("//div[@class='skill']/div[@class='skill_wrapper']/div[1]/img/@data-src").extract()
-        item['skill_stats'] = hxs.select("//div[@class='skill']/div[@class='skill_header']/ul").extract()
-        item['skill_level'] = hxs.select("//div[@class='skill']/div[@class='skill_wrapper']/div[2]/div[2]").extract()
-
-
-        item['skill_w_name'] = hxs.select("//div[@class='skill skill_w']/div[@class='skill_header']/span/text()").extract()
-        item['skill_w_description'] = hxs.select("//div[@class='skill skill_w']/div[@class='skill_wrapper']/div[2]/div[1]").extract()
-        item['skill_w_picture'] = hxs.select("//div[@class='skill skill_w']/div[@class='skill_wrapper']/div[1]/img/@data-src").extract()
-        item['skill_w_stats'] = hxs.select("//div[@class='skill skill_w']/div[@class='skill_header']/ul").extract()
-        item['skill_w_level'] = hxs.select("//div[@class='skill skill_w']/div[@class='skill_wrapper']/div[2]/div[2]").extract()
-
+        item['skill_w_name'] = hxs.xpath("//div[@class='skill skill_w']/div[@class='skill_header']/span/text()").extract()
+        item['skill_w_description'] = hxs.xpath("//div[@class='skill skill_w']/div[@class='skill_wrapper']/div[2]/div[1]").extract()
+        item['skill_w_picture'] = hxs.xpath("//div[@class='skill skill_w']/div[@class='skill_wrapper']/div[1]/img/@data-src").extract()
+        item['skill_w_stats'] = hxs.xpath("//div[@class='skill skill_w']/div[@class='skill_header']/ul").extract()
         
-        item['skill_e_name'] = hxs.select("//div[@class='skill skill_e']/div[@class='skill_header']/span/text()").extract()
-        item['skill_e_description'] = hxs.select("//div[@class='skill skill_e']/div[@class='skill_wrapper']/div[2]/div[1]").extract()
-        item['skill_e_picture'] = hxs.select("//div[@class='skill skill_e']/div[@class='skill_wrapper']/div[1]/img/@data-src").extract()
-        item['skill_e_stats'] = hxs.select("//div[@class='skill skill_e']/div[@class='skill_header']/ul").extract()
-        item['skill_e_level'] = hxs.select("//div[@class='skill skill_e']/div[@class='skill_wrapper']/div[2]/div[2]").extract()
-
+        item['skill_e_name'] = hxs.xpath("//div[@class='skill skill_e']/div[@class='skill_header']/span/text()").extract()
+        item['skill_e_description'] = hxs.xpath("//div[@class='skill skill_e']/div[@class='skill_wrapper']/div[2]/div[1]").extract()
+        item['skill_e_picture'] = hxs.xpath("//div[@class='skill skill_e']/div[@class='skill_wrapper']/div[1]/img/@data-src").extract()
+        item['skill_e_stats'] = hxs.xpath("//div[@class='skill skill_e']/div[@class='skill_header']/ul").extract()
         
-        item['skill_r_name'] = hxs.select("//div[@class='skill skill_r']/div[@class='skill_header']/span/text()").extract()
-        item['skill_r_description'] = hxs.select("//div[@class='skill skill_r']/div[@class='skill_wrapper']/div[2]/div[1]").extract()
-        item['skill_r_picture'] = hxs.select("//div[@class='skill skill_r']/div[@class='skill_wrapper']/div[1]/img/@data-src").extract()
-        item['skill_r_stats'] = hxs.select("//div[@class='skill skill_r']/div[@class='skill_header']/ul").extract()
-        item['skill_r_level'] = hxs.select("//div[@class='skill skill_r']/div[@class='skill_wrapper']/div[2]/div[2]").extract()
-
+        item['skill_r_name'] = hxs.xpath("//div[@class='skill skill_r']/div[@class='skill_header']/span/text()").extract()
+        item['skill_r_description'] = hxs.xpath("//div[@class='skill skill_r']/div[@class='skill_wrapper']/div[2]/div[1]").extract()
+        item['skill_r_picture'] = hxs.xpath("//div[@class='skill skill_r']/div[@class='skill_wrapper']/div[1]/img/@data-src").extract()
+        item['skill_r_stats'] = hxs.xpath("//div[@class='skill skill_r']/div[@class='skill_header']/ul").extract()
         
         
         return item

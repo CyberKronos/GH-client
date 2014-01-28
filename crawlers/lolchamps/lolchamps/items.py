@@ -35,28 +35,18 @@ class LolchampsItem(Item):
     skill_q_description = Field()
     skill_q_picture = Field()
     skill_q_stats = Field()
-    skill_q_level = Field()
-
-    skill_name = Field()
-    skill_description = Field()
-    skill_picture = Field()
-    skill_stats = Field()
-    skill_level = Field()
 
     skill_w_name = Field()
     skill_w_description = Field()
     skill_w_picture = Field()
     skill_w_stats = Field()
-    skill_w_level = Field()
 
     skill_e_name = Field()
     skill_e_description = Field()
     skill_e_picture = Field()
     skill_e_stats = Field()
-    skill_e_level = Field()
     
     skill_r_name = Field()
     skill_r_description = Field()
     skill_r_picture = Field()
     skill_r_stats = Field()
-    skill_r_level = Field()
