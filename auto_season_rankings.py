@@ -17,7 +17,7 @@ for item in root.findall('item'):
       <img src="assets/images/website_sources/leaguepedia.png" height="18px" width="18px">
       Leaguepedia
     </p>
-    <div class='client-pin-content-holder'>
+    <div class='client-pin-content-holder' id="season-rankings">
       <div> """ + table_rankings.encode('utf-8','ignore') + """ </div>
     </div>
   </div>
@@ -29,7 +29,7 @@ for item in root.findall('item'):
   tournament_name = tournament_name.replace(' ','_')
   tournament_name = tournament_name.lower()
   tournament_name = ''.join(c for c in tournament_name if c.islower() or c is '_')
-  f = open('cards/LoL/'+tournament_name+'.php', 'w+')
+  f = open('cards/LoL/season_rankings/'+tournament_name+'.php', 'w+')
   f.write(html_string)
 	
 

@@ -113,6 +113,7 @@ class MySpider(BaseSpider):
         "http://leagueoflegends.wikia.com/wiki/Wukong",
         "http://leagueoflegends.wikia.com/wiki/Xerath",
         "http://leagueoflegends.wikia.com/wiki/Xin_Zhao",
+        "http://leagueoflegends.wikia.com/wiki/Yasuo",
         "http://leagueoflegends.wikia.com/wiki/Yorick",
         "http://leagueoflegends.wikia.com/wiki/Zac",
         "http://leagueoflegends.wikia.com/wiki/Zed",

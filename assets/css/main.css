@@ -297,3 +297,8 @@ input[type=radio]:checked + label {
     max-width: 105px;
     max-height: 25px;
 }
+
+/*SEASON RANKINGS CARD*/
+#season-rankings table {
+    width: 300px !important;;
+}
