@@ -6,10 +6,10 @@
 #     http://doc.scrapy.org/topics/settings.html
 #
 
-BOT_NAME = 'lolesports'
+BOT_NAME = 'lolesports_season_rankings'
 
-SPIDER_MODULES = ['lolesports.spiders']
-NEWSPIDER_MODULE = 'lolesports.spiders'
+SPIDER_MODULES = ['lolesports_season_rankings.spiders']
+NEWSPIDER_MODULE = 'lolesports_season_rankings.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'lolesports (+http://www.yourdomain.com)'
+#USER_AGENT = 'lolesports_season_rankings (+http://www.yourdomain.com)'

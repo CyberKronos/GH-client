@@ -285,3 +285,15 @@ input[type=radio]:checked + label {
     height: 40px;
     margin-right: 5px;
 }
+
+/*TOURNAMENTS CARD*/
+#tournaments-card {
+    font-size: 11px;
+}
+
+.tnl-sedate {
+    float: left;
+    min-width: 105px;
+    max-width: 105px;
+    max-height: 25px;
+}

@@ -2,7 +2,9 @@ import xml.etree.ElementTree as ET
 
 tree = ET.parse('crawlers/gameupdates/gameupdates/gameupdates_products.xml')
 root = tree.getroot()
+
 for item in root.findall('item'):
+  
 	if item.find('title').find('value') is not None:
 
 		preview_image = item.find('preview_image').find('value').text
