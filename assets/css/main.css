@@ -235,11 +235,25 @@ input[type=radio]:checked + label {
 
 /*SERVER STATUS CARD*/
 .server-status {
-    width: 1500px;
-    margin-left: -1093px;
-    margin-top: -36px;
-    height: 105px;
+    margin: 5px 0 5px 0;
+}
+
+.region-name {
+    display: inline-block;
+    width: 200px;
 }   
+
+.region-status-online {
+    color: green;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.region-status-offline {
+    color: red;
+    font-weight: bold;
+    display: inline-block;
+}
 
 /*CHAMPION GUIDES CARD*/
 .champion-imgs-holder {
