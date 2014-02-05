@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php'); ?>
 
 <div class="client-pin">
   <h4 class="title"><b>LoL Scouter</b></h4>
@@ -8,8 +8,8 @@
   </p>
   <div class="client-pin-content-holder">
 
-    <form class="navbar-search" role="form" action="content/overlay-cards/main-newsfeed/lolscouter_popup.php" target="POPUPW" onsubmit="POPUPW = window.open('about:blank','POPUPW');">
-      <input name="search" type="text" class="search-query" placeholder="Enter a player currently in match">
+    <form class="navbar-search" role="form" action="cards/LoL/lolscouter_popup.php" target="POPUPW" onsubmit="POPUPW = window.open('about:blank','POPUPW');">
+      <input name="search" type="text" class="form-control" placeholder="Enter a player currently in match">
       
       <div class="lolscouter-region-container">
 
@@ -46,8 +46,7 @@
   </div>
 </div>
 
-</body>
-</html>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>
 
 
   

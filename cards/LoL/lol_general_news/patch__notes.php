@@ -1,5 +1,5 @@
 
-<?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php'); ?>
 <div class='client-pin'>
   <h4 class='title'><b>Patch 4.1 Notes</b></h4>
   <h5 class='sub-title'><b>Patch</b></h5>
@@ -11,15 +11,10 @@
     <div>   </div>
   </div>
   <br/>
-  <div class='accordion' id='accordion2'>
-    <div class='accordion-group'>
-      <div class='accordion-heading'>
-        <a class='accordion-toggle' data-toggle='collapse' data-parent='#accordion2' href='#collapseOne'>
+  <div class="viewmore">
           View More
-        </a>
-      </div>
-      <div id='collapseOne' class='accordion-body collapse'>
-        <div class='accordion-inner'>
+        </div>
+        <div class="viewmore-content">
           <div class="field field-name-body field-type-text-with-summary field-label-hidden"><link rel="stylesheet" type="text/css" href="http://riot-web-static.s3.amazonaws.com/images/news/Patch_Notes_Icons/styles/champ-icons_new.css"><div class="pn_wrapper">
 	<div class="content-border">
 		<div class="white-stone">
@@ -29,13 +24,10 @@
 						<a class="anchor" name="patch-top" id="patch-top"></a>Patch Contents
 					</h4>
 				</div>
-				<div class="default-1-2">
-					<ul class="arrow-bullets"><li>
-							<h4>
-								<a href="#patch-Leagues">Leagues</a>
-							</h4>
-						</li>
-					</ul></div>
+<div class="default-1-1">
+<ul class="arrow-bullets"><li><h4><a href="#01-16-hotfix">01/16/2014 Leagues Patch</a></h4></li>
+</ul></div>
+
 				<div class="default-1-2">
 					<ul class="arrow-bullets"><li>
 							<h4>
@@ -137,7 +129,39 @@
 			</div>
 		</div>
 	</div>
-		<p class="pn_darkred">
+<div class="content-border"><div class="white-stone">
+<header class="header-primary pn_heading"><a class="anchor" name="01-16-hotfix" id="01-16-hotfix"></a>
+		<h2>
+			01/16/2014 Leagues Patch
+		</h2>
+	</header><p class="pn_darkred">The 2014 season began and Leagues have been reset. A lot of our changes are focused on observations from last season’s ranked play. When we first made leagues we wanted to combat “ladder anxiety” where players were too nervous about losing their rank to actually play. However, what we ended up seeing were group of players who would reach division V of a tier and then tank their games as they exploited demotion immunity.</p>
+<p class="pn_darkred">No bueno.</p>
+
+<p class="pn_darkred">For the 2014 season, it’s possible for a player to get demoted out of a league if they continuously play at a much lower skill level while losing games. You’ll be sufficiently warned of the demotion if it looms, but the change will improve ranked play at division V tiers.</p>
+
+<p class="pn_darkred">We also removed “LP clamping” where players would only see tiny LP gains at division 1 of their tier. Clamping will still be in effect at Diamond I (because Challenger should rep the best players, so it needs to be strict), but all other tiers will see regular LP gains from now on.</p>
+
+<p class="pn_darkred">Alright, I’m gonna go start my placement matches.</p>
+
+<p class="pn_darkred">-Pwyff</p>
+
+<header class="header pn_heading"><h2>Leagues</h2>
+	</header><p></p>
+<ul><li>Ranked solo, duo, and ranked team stats have been reset for the start of the 2014 season
+<ul><li>Play 10 games in ranked solo or duo queue, or 5 games in ranked teams to be seeded into a league!</li>
+<li>Ranked inactivity will be reset and re-enabled for the start of the season</li>
+</ul></li>
+<li>Changed LP calculations so players will no longer see a sudden decrease in gains when hitting division I in all tiers (except Diamond)</li>
+<li>Tier demotions and shielding have been added
+<ul><li>Once you enter a new tier, you’ll have a set number of games where you are invulnerable to dropping out</li>
+<li>After you play these games, if you fall a full tier below your placement in terms of MMR, a demotion warning will appear in your profile (IE: A Gold V player playing at a Silver V skill level would see this warning)</li>
+<li>Continuing to lose games at 0 LP will result in a demotion to division I of the next lower tier</li>
+</ul></li>
+<li>Challenger pool in solo and duo ranked queues have been increased to 200 players (from 50)</li>
+</ul><p><a href="#patch-top">Back to top</a></p>
+</div></div>
+
+<hr class="divider"><p class="pn_darkred">
 		Hey Summoners,<br><br>
 		Riot Pwyff here with the first update of 2014! Since this is the beginning of a new year, we’re rolling over our patch numbering from 3.x to 4.x. Aside from getting that +1, our general design philosophy for the new season isn’t changing. We’re still closely watching the state of the game as it evolves with the preseason, and this update is just another step down that path.
 	</p>
@@ -146,16 +170,6 @@
 	</p>
 		<p class="pn_darkred">
 		Quick note, any text in red will be myself guiding you through some of our changes and our thought process behind them. On with the patch notes!
-	</p>
-	<hr class="divider"><header class="header-primary pn_heading"><a class="anchor" name="patch-Leagues" id="patch-Leagues"></a>
-		<h2>
-			Leagues
-		</h2>
-	</header><p>
-		The 2014 ranked season reset will take place within the next few days. We’ll have a full list of changes in the patch notes when it happens.
-	</p>
-	<p>
-		<a href="#">Back to top</a>
 	</p>
 	<hr class="divider"><header class="header-primary pn_heading"><a class="anchor" name="patch-Vision-Code-Changes" id="patch-Vision-Code-Changes"></a>
 		<h2>
@@ -650,7 +664,7 @@
 	</p>
 	<ul><li>Outer turrets no longer gain bonus armor and magic resist for the first eight minutes of the game.
 		</li>
-		<li>Top and middle lane outer turrets now have 20 damage reduction from champion basic attacks
+		<li>Top and middle lane outer turrets now have 20 damage reduction from champion basic attacks.
 		</li>
 	</ul><p>
 		<a href="#">Back to top</a>
@@ -771,13 +785,9 @@
 		<a href="#">Back to top</a>
 	</p>
 </div></div>
-        </div>
-      </div>
-    </div>
-  </div>
+        
 
 </div>
 
 </div>
-</body>
-</html>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>

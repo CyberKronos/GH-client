@@ -1,5 +1,5 @@
 <?php 
-include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); 
+include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php'); 
 
 $champions = array(
     array("name" => "Aatrox",
@@ -490,8 +490,8 @@ array_multisort($sort['name'], SORT_ASC, $champions);
   </p>
   <div class="client-pin-content-holder">
 
-    <form id="test" role="form" action="content/overlay-cards/main-newsfeed/champ_guides_popup.php" target="POPUPW" onsubmit="POPUPW = window.open('about:blank','POPUPW');">
-      <input name="search" type="text" class="search-query" placeholder="Search for a Champion by Name">
+    <form id="test" role="form" action="cards/LoL/champ_guides_popup.php" target="POPUPW" onsubmit="POPUPW = window.open('about:blank','POPUPW');">
+      <input name="search" type="text" class="form-control" placeholder="Search for a Champion by Name">
     </form>
 
     <div class="champion-imgs-holder">
@@ -508,5 +508,4 @@ array_multisort($sort['name'], SORT_ASC, $champions);
   </div>
 </div>
 
-</body>
-</html>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>

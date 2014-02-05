@@ -170,6 +170,10 @@ iframe {
     padding: 0 2px 0 2px;
 }
 
+.navbar-search input {
+    width: 286px;
+}
+
 input[type=radio] {
     display:none;
 }
@@ -231,11 +235,25 @@ input[type=radio]:checked + label {
 
 /*SERVER STATUS CARD*/
 .server-status {
-    width: 1500px;
-    margin-left: -1093px;
-    margin-top: -36px;
-    height: 105px;
+    margin: 5px 0 5px 0;
+}
+
+.region-name {
+    display: inline-block;
+    width: 200px;
 }   
+
+.region-status-online {
+    color: green;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.region-status-offline {
+    color: red;
+    font-weight: bold;
+    display: inline-block;
+}
 
 /*CHAMPION GUIDES CARD*/
 .champion-imgs-holder {
@@ -280,4 +298,21 @@ input[type=radio]:checked + label {
     width: 40px;
     height: 40px;
     margin-right: 5px;
+}
+
+/*TOURNAMENTS CARD*/
+#tournaments-card {
+    font-size: 11px;
+}
+
+.tnl-sedate {
+    float: left;
+    min-width: 105px;
+    max-width: 105px;
+    max-height: 25px;
+}
+
+/*SEASON RANKINGS CARD*/
+#season-rankings table {
+    width: 300px !important;;
 }

@@ -1,0 +1,283 @@
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #DDDDDD;
+}
+
+body {
+    font-family: Montserrat,sans-serif;
+}
+
+/*Bootstrap Nav Color Override*/
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #0dadc0;
+}
+
+#navbar-custom {
+    z-index: 100;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.logo {
+    text-align: center;
+}
+
+.index-body {
+    color: #FFF;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    width: 500px;
+}
+
+#download-body {
+    text-align: center;
+}
+
+#download-btn {
+    background-color: #0dadc0;
+    color: #FFF;
+    width: 207px;
+    height: 68px;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0 10px 0 10px;
+    border-color: transparent;
+}
+
+#signup-btn {
+    background-color: #3b5998;
+    color: #FFF;
+    width: 207px;
+    height: 68px;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0 10px 0 10px;
+    border-color: transparent;
+}
+
+.section-header {
+    text-align: center;
+    color: #0dadc0;
+    font-weight: 400;
+    margin-bottom: 100px;
+}
+
+.feature-container {
+    margin-bottom: 50px;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.feature-header,.support-header,.team-name {
+    text-transform: uppercase;
+    color: #0dadc0;
+    font-weight: 700;
+}
+
+.feature-body {
+    width: 400px;
+}
+
+.games-container {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.games-container img {
+    width: 100%;
+    height: 100%;
+}
+
+.team-container {
+    text-align: center;
+}
+
+.team-role {
+    text-transform: uppercase;
+    color: #FFF;
+    font-weight: 700;
+}
+
+.team-bio {
+    font-weight: 700;
+    padding-top: 15px;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.team-picture {
+    width: 140px;
+    height: 140px;
+    border-radius: 100%;
+    margin-bottom: 30px;
+}
+
+.support-container {
+    width: 350px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.support-email,.support-fb,.support-twitter {
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 0;
+    padding-top: 20px;
+    margin: 0;
+}
+
+.container-bg-features .container,.container-bg-games .container,.container-bg-index .container,.container-bg-support .container,.container-bg-team .container {
+    padding-top: 50px;
+}
+
+.container-bg-index {
+    background-image: url(/GH-client/assets/img/splash_bg.jpg);
+    background-size: 100% 100%;
+    padding: 70px 0 200px;
+    /*background-color: #000;*/
+}
+
+.container-bg-features {
+    background-color: #202327;
+    padding: 10px 0 200px;
+}
+
+.container-bg-games {
+    background-color: #121416;
+    padding: 10px 0 150px;
+}
+
+.container-bg-team {
+    background-color: #181a1d;
+    padding: 10px 0 200px;
+}
+
+.container-bg-support {
+    background-color: #121416;
+    padding: 10px 0 200px;
+}
+
+.form-contact {
+    padding-top: 15px;
+}
+
+.form-contact button,.form-contact input {
+    margin: 10px 0;
+}
+
+/*SIGN UP FORM PAGE*/
+
+#body-bg-signup {
+    background-color: #d3d3d3;
+}
+
+.container-bg-signup {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.form-signup {
+    width: 450px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 5px 50px 30px;
+    background-color: #121416;
+    -webkit-box-shadow: 0 9px 30px 0 rgba(18,20,22,1);
+    -moz-box-shadow: 0 9px 30px 0 rgba(18,20,22,1);
+    box-shadow: 0 9px 30px 0 rgba(18,20,22,1);
+}
+
+.form-signup-heading {
+    color: #0dadc0;
+    padding: 10px 0;
+}
+
+input {
+    margin: 10px 0;
+}
+
+.form-signup label {
+    margin: 30px 0 20px;
+}
+
+.personalize-text {
+    color: #FFF;
+}
+
+.form-signup button {
+    width: 150px;
+}
+
+.cancel-btn,.signup-btn {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+/*Account Created, Forgot Password & Password Link Sent Page - Inherits Sing Up Page CSS*/
+.account-created, 
+.forgot-password,
+.account-notfound {
+    width: 450px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 5px 50px 30px;
+    background-color: #121416;
+    -webkit-box-shadow: 0 9px 30px 0 rgba(18,20,22,1);
+    -moz-box-shadow: 0 9px 30px 0 rgba(18,20,22,1);
+    box-shadow: 0 9px 30px 0 rgba(18,20,22,1);
+}
+
+.account-created-btn, 
+.forgot-password-btn,
+.account-notfound-btn {
+    text-align: right;
+}
+
+.password-sent-heading {
+    padding: 10px 0;
+}
+
+/* SOCIAL MEDIA PAGES */
+/*.navbar-brand img {
+    width: 35px;
+    height: auto;
+}*/
+
+#nav-search-bar {
+    width: 600px;
+}
+
+#nav-container-bottom {
+    background-color: #202327;
+}
+
+#nav-container-top {
+    background-color: #121416;
+}

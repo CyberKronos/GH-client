@@ -1,5 +1,5 @@
 
-<?php include(C:/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php'); ?>
 <div class='client-pin'>
   <h4 class='title'><b>Announcing the Sunday Morning LoLz Contest</b></h4>
   <h5 class='sub-title'><b>Contests</b></h5>
@@ -11,15 +11,10 @@
     <div>   </div>
   </div>
   <br/>
-  <div class='accordion' id='accordion2'>
-    <div class='accordion-group'>
-      <div class='accordion-heading'>
-        <a class='accordion-toggle' data-toggle='collapse' data-parent='#accordion2' href='#collapseOne'>
+  <div class="viewmore">
           View More
-        </a>
-      </div>
-      <div id='collapseOne' class='accordion-body collapse'>
-        <div class='accordion-inner'>
+        </div>
+        <div class="viewmore-content">
           <div class="field field-name-body field-type-text-with-summary field-label-hidden"><p>Some of our best weeks of 2013 began cuddling up with a plush Tibbers, a cup of coffee and the newest Sunday Morning LoLz. Stuffed pillows and caffeine-dispensers have been acquired in 2014, so this contest is the flashing light in the sky begging for more laughs from you!</p>
 <hr class="divider"><h4>The rules:</h4>
 
@@ -50,13 +45,9 @@
 </ul><p>The contest starts on <strong>January 25th</strong> and runs through <strong>February 15th at 11:59 PM Pacific Time</strong>. <a href="http://woobox.com/o5pz8u" target="_blank"><strong>Submit your entries here</strong></a>. Judging for the contest will begin on <strong>February 17th</strong> and end on <strong>February 24 at 11:59 PM Pacific Time</strong>.<br><br> Like any contest, this comes with the usual <a href="http://na.leagueoflegends.com/en/page/sunday-morning-lolz-contest-official-rules" target="_blank"><strong>official rules and legal small print</strong></a>, so be sure to do your due diligence and check them out before you get started!</p>
 <p>Break out the pencils, paintbrushes, crayons, markers, pastels or their hex-tech equivalents; it’s time to share your comic LoLz.</p>
 <p>Got questions? We’ve got an <a href="https://support.leagueoflegends.com/entries/26133575-Sunday-Morning-LoLz-FAQ" target="_blank"><strong>FAQ here</strong></a> and we’ll be answering questions in the comments below.</p></div>
-        </div>
-      </div>
-    </div>
-  </div>
+        
 
 </div>
 
 </div>
-</body>
-</html>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>

@@ -17,5 +17,8 @@ List of Content Sources
 *Wiki*
 - http://leagueoflegends.wikia.com/wiki/League_of_Legends_Wiki/
 
+*Esports*
+- http://lol.gamepedia.com/League_of_Legends_Wiki
+
 
 

@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php'); ?>
 <div class='client-pin'>
   <h4 class='title'><b>Champion and skin sale: 12.24 - 12.27</b></h4>
   <h5 class='sub-title'><b>Sales</b></h5>
@@ -10,15 +10,10 @@
     <div>  </div>
   </div>
   <br/>
-  <div class='accordion' id='accordion2'>
-    <div class='accordion-group'>
-      <div class='accordion-heading'>
-        <a class='accordion-toggle' data-toggle='collapse' data-parent='#accordion2' href='#collapseOne'>
+  <div class="viewmore">
           View More
-        </a>
-      </div>
-      <div id='collapseOne' class='accordion-body collapse'>
-        <div class='accordion-inner'>
+        </div>
+        <div class="viewmore-content">
           <div class="field field-name-body field-type-text-with-summary field-label-hidden"><p>Grab these champions and skins on sale for 50% off for a limited time:</p>
 <hr class="divider"><header class="header-subtle"><h4>Champion Sales</h4></header><p>Add these champions to your roster:</p>
 <div class="gs-container default-3-col">
@@ -100,13 +95,9 @@ Veigar
 </div>
 <h4>Crimson Elite Riven</h4>
 <strike>520</strike> 260 RP</div>
-        </div>
-      </div>
-    </div>
-  </div>
+        
 
 </div>
 
 </div>
-</body>
-</html>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>

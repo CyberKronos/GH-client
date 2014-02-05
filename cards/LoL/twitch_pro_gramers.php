@@ -1,7 +1,10 @@
 <?php
-include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php');
+include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php');
 
 error_reporting(0);
+$cachefile = "C:/xampp/htdocs/GH-client/cache/". basename(__FILE__, '.php') ."_cache.php";
+include('C:/xampp/htdocs/GH-client/assets/includes/cache-open.php');
+
 ?>
 
 <div class="client-pin">
@@ -158,5 +161,7 @@ function signin($person){
   </div>
 </div>
 
-</body>
-</html>
+<?php 
+include('C:/xampp/htdocs/GH-client/assets/includes/cache-open.php');
+include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); 
+?>

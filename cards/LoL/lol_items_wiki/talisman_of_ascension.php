@@ -1,5 +1,5 @@
 
-<?php include('C:/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php'); ?>
 <div class='client-pin'>
   <h4 class='title'><b>
 										Talisman of Ascension									</b></h4>
@@ -16,5 +16,4 @@
   </div>
 </div>
 </div>
-</body>
-</html>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>

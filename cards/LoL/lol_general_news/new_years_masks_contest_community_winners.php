@@ -1,5 +1,5 @@
 
-<?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php'); ?>
 <div class='client-pin'>
   <h4 class='title'><b>New Year's Masks Contest community winners!</b></h4>
   <h5 class='sub-title'><b>Contests</b></h5>
@@ -11,15 +11,10 @@
     <div>   </div>
   </div>
   <br/>
-  <div class='accordion' id='accordion2'>
-    <div class='accordion-group'>
-      <div class='accordion-heading'>
-        <a class='accordion-toggle' data-toggle='collapse' data-parent='#accordion2' href='#collapseOne'>
+  <div class="viewmore">
           View More
-        </a>
-      </div>
-      <div id='collapseOne' class='accordion-body collapse'>
-        <div class='accordion-inner'>
+        </div>
+        <div class="viewmore-content">
           <div class="field field-name-body field-type-text-with-summary field-label-hidden"><p>Snowdown kicked off the holiday season for League of Legends, and that means it's time for another contest! Make merry with your friends and family this upcoming New Year and celebrate a League of Legends-flavored masquerade at the same time. Show off your costuming creativity and create a mask inspired by the champions, monsters and items from the world of League of Legends. Whether you papier-mâché a terrifying Teemo or construct a truly Haunting Guise, we want to see it. <strong><a href="http://woobox.com/9or2xk">Upload it here</a> </strong>and good luck!</p>
 <p>We'll pick 5 Grand prize winners and 5 Honorable mentions and the community will do the same for a total of 20 winners. All selections will be based on the quality of the submission and whether the entry is, in fact, a mask.</p>
 
@@ -201,13 +196,9 @@ All the winners will receive an email on the address they have used to submit th
 <hr class="divider"><p></p><h4><strong>Update (01/14):</strong></h4>
 
 <p>Due to some new information we'll be making a small change to the Grand Prize Winners list - Bacon Dispenser will be disqualified, Beeboz will now be receiving one of the 5 Riot chosen grand prize rewards and This Whomps will receive an Honorable Mention. The error was entirely a misstep during our judging process. Keep this in mind before aggressively accusing any player of deliberate dishonesty. That said, as discussed in the previous update above we're actively resolving issues in our voting systems to ensure these sorts of mishaps do not occur again in the future.</p></div></div></div></div></div>
-        </div>
-      </div>
-    </div>
-  </div>
+        
 
 </div>
 
 </div>
-</body>
-</html>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>
