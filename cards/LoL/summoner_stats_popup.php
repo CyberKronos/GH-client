@@ -1,5 +1,5 @@
 <?php 
-include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); 
+include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php');
 
 if (!empty($_GET['search'])) {
   $summonerName = $_GET['search'];
@@ -23,5 +23,4 @@ if (!empty($_GET['search'])) {
   </div>
 </div>
 
-</body>
-</html>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>

@@ -1,5 +1,5 @@
 
-  <?php include('C:/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+  <?php include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php'); ?>
   <div class='client-pin'>
     <h4 class='title'><b> Riot League Championship Series/North America/2014 Season/Spring Round Robin </b></h4>
     <h5 class='sub-title'><b>Season Rankings</b></h5>
@@ -15,20 +15,20 @@
 <tr>
 <th style="width: 16px;background-color:#CFC;">1.
 </th>
-<td colspan="3" style="text-align:left;">  <a href="/Team_SoloMid" title="Team SoloMid"><img alt="Tsmlogo std.png" src="http://hydra-media.cursecdn.com/lol.gamepedia.com/c/cb/Tsmlogo_std.png" width="60" height="25"></a> <a href="/Team_SoloMid" title="Team SoloMid">Team SoloMid</a>
-</td>
-<td style="width: 35px; white-space: pre; text-align:center;"><b>5-1</b>
-</td>
-<td style="width: 35px; white-space: pre; text-align: center;"><i>83%</i>
-</td></tr>
-<tr>
-<th style="width: 16px;background-color:#CFC;">2.
-</th>
 <td colspan="3" style="text-align:left;">  <a href="/Cloud_9" title="Cloud 9"><img alt="C9logo std.png" src="http://hydra-media.cursecdn.com/lol.gamepedia.com/e/e7/C9logo_std.png" width="60" height="25"></a> <a href="/Cloud_9" title="Cloud 9">Cloud 9</a>
 </td>
-<td style="width: 35px; white-space: pre; text-align:center;"><b>4-1</b>
+<td style="width: 35px; white-space: pre; text-align:center;"><b>6-1</b>
 </td>
-<td style="width: 35px; white-space: pre; text-align: center;"><i>80%</i>
+<td style="width: 35px; white-space: pre; text-align: center;"><i>86%</i>
+</td></tr>
+<tr>
+<th style="width: 16px;background-color:#CFC;">1.
+</th>
+<td colspan="3" style="text-align:left;">  <a href="/Team_SoloMid" title="Team SoloMid"><img alt="Tsmlogo std.png" src="http://hydra-media.cursecdn.com/lol.gamepedia.com/c/cb/Tsmlogo_std.png" width="60" height="25"></a> <a href="/Team_SoloMid" title="Team SoloMid">Team SoloMid</a>
+</td>
+<td style="width: 35px; white-space: pre; text-align:center;"><b>6-1</b>
+</td>
+<td style="width: 35px; white-space: pre; text-align: center;"><i>86%</i>
 </td></tr>
 <tr>
 <th style="width: 16px;background-color:#EFA;">3.
@@ -42,52 +42,49 @@
 <tr>
 <th style="width: 16px;background-color:#EFA;">4.
 </th>
-<td colspan="3" style="text-align:left;">  <a href="/Team_Curse" title="Team Curse"><img alt="Crslogo std.png" src="http://hydra-media.cursecdn.com/lol.gamepedia.com/5/52/Crslogo_std.png" width="60" height="25"></a> <a href="/Team_Curse" title="Team Curse">Team Curse</a>
-</td>
-<td style="width: 35px; white-space: pre; text-align:center;"><b>3-3</b>
-</td>
-<td style="width: 35px; white-space: pre; text-align: center;"><i>50%</i>
-</td></tr>
-<tr>
-<th style="width: 16px;background-color:#EFA;">5.
-</th>
 <td colspan="3" style="text-align:left;">  <a href="/Counter_Logic_Gaming" title="Counter Logic Gaming"><img alt="Clglogo std.png" src="http://hydra-media.cursecdn.com/lol.gamepedia.com/1/15/Clglogo_std.png" width="60" height="25"></a> <a href="/Counter_Logic_Gaming" title="Counter Logic Gaming">Counter Logic Gaming</a>
 </td>
-<td style="width: 35px; white-space: pre; text-align:center;"><b>2-4</b>
+<td style="width: 35px; white-space: pre; text-align:center;"><b>3-4</b>
 </td>
-<td style="width: 35px; white-space: pre; text-align: center;"><i>33%</i>
+<td style="width: 35px; white-space: pre; text-align: center;"><i>43%</i>
 </td></tr>
 <tr>
-<th style="width: 16px;background-color:#EFA;">5.
+<th style="width: 16px;background-color:#EFA;">4.
+</th>
+<td colspan="3" style="text-align:left;">  <a href="/Team_Curse" title="Team Curse"><img alt="Crslogo std.png" src="http://hydra-media.cursecdn.com/lol.gamepedia.com/5/52/Crslogo_std.png" width="60" height="25"></a> <a href="/Team_Curse" title="Team Curse">Team Curse</a>
+</td>
+<td style="width: 35px; white-space: pre; text-align:center;"><b>3-4</b>
+</td>
+<td style="width: 35px; white-space: pre; text-align: center;"><i>43%</i>
+</td></tr>
+<tr>
+<th style="width: 16px;background-color:#EFA;">6.
 </th>
 <td colspan="3" style="text-align:left;">  <a href="/Evil_Geniuses" title="Evil Geniuses"><img alt="Eglogo std.png" src="http://hydra-media.cursecdn.com/lol.gamepedia.com/2/28/Eglogo_std.png" width="60" height="25"></a> <a href="/Evil_Geniuses" title="Evil Geniuses">Evil Geniuses</a>
 </td>
-<td style="width: 35px; white-space: pre; text-align:center;"><b>2-4</b>
+<td style="width: 35px; white-space: pre; text-align:center;"><b>2-5</b>
 </td>
-<td style="width: 35px; white-space: pre; text-align: center;"><i>33%</i>
+<td style="width: 35px; white-space: pre; text-align: center;"><i>29%</i>
 </td></tr>
 <tr>
-<th style="width: 16px;background-color:#FCC;">5.
+<th style="width: 16px;background-color:#FCC;">6.
 </th>
 <td colspan="3" style="text-align:left;">  <a href="/Team_Coast" title="Team Coast"><img alt="Clogo std.png" src="http://hydra-media.cursecdn.com/lol.gamepedia.com/d/dd/Clogo_std.png" width="60" height="25"></a> <a href="/Team_Coast" title="Team Coast">Team Coast</a>
 </td>
-<td style="width: 35px; white-space: pre; text-align:center;"><b>2-4</b>
+<td style="width: 35px; white-space: pre; text-align:center;"><b>2-5</b>
 </td>
-<td style="width: 35px; white-space: pre; text-align: center;"><i>33%</i>
+<td style="width: 35px; white-space: pre; text-align: center;"><i>29%</i>
 </td></tr>
 <tr>
 <th style="width: 16px;background-color:#FCC;">8.
 </th>
 <td colspan="3" style="text-align:left;">  <a href="/XDG_Gaming" title="XDG Gaming"><img alt="XD.GGlogo std.png" src="http://hydra-media.cursecdn.com/lol.gamepedia.com/0/04/XD.GGlogo_std.png" width="60" height="25"></a> <a href="/XDG_Gaming" title="XDG Gaming">XDG Gaming</a>
 </td>
-<td style="width: 35px; white-space: pre; text-align:center;"><b>1-5</b>
+<td style="width: 35px; white-space: pre; text-align:center;"><b>1-6</b>
 </td>
-<td style="width: 35px; white-space: pre; text-align: center;"><i>17%</i>
+<td style="width: 35px; white-space: pre; text-align: center;"><i>14%</i>
 </td></tr></table> </div>
     </div>
   </div>
-
-  </div>
-  </body>
-  </html>
+  <?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>
   

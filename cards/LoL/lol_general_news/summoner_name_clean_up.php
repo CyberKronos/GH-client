@@ -1,5 +1,5 @@
 
-<?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php'); ?>
 <div class='client-pin'>
   <h4 class='title'><b>Summoner name clean up</b></h4>
   <h5 class='sub-title'><b>Features</b></h5>
@@ -11,15 +11,10 @@
     <div>   </div>
   </div>
   <br/>
-  <div class='accordion' id='accordion2'>
-    <div class='accordion-group'>
-      <div class='accordion-heading'>
-        <a class='accordion-toggle' data-toggle='collapse' data-parent='#accordion2' href='#collapseOne'>
+  <div class="viewmore">
           View More
-        </a>
-      </div>
-      <div id='collapseOne' class='accordion-body collapse'>
-        <div class='accordion-inner'>
+        </div>
+        <div class="viewmore-content">
           <div class="field field-name-body field-type-text-with-summary field-label-hidden"><p>In the upcoming patch, we’re introducing a new feature called the Summoner Name Clean Up.</p>
 <p>Occasionally, we go through Summoner names and free up ones that have been inactive for long periods of time. From now on, the Summoner Name Clean Up will be automated. Based on when you played your last game and what your level is, you’ll have a period of immunity from name clean ups. Every name will initially be given 6 months of immunity and then granted one additional month for each level above level 6.</p>
 <p>For example:</p>
@@ -31,13 +26,9 @@
 <p>It’s important to note that non-immune names can only be claimed through Summoner Name Change, and not by new players. This ensures the name will be used by an active player and not someone who decided they absolutely need Trevor, 7revor, and Tr3v0r Tha 5hr3dder. It happens more often than you’d think.</p>
 <p>To make it easier to snag the alias you've always wanted, you can now purchase a Summoner Name Change for <strong>13,900 IP</strong>. For players who prefer using RP, procure your new namesake for half off from <strong>January 14 to January 28 (11:59 PM PST)</strong>.</p>
 <p>With so many names freed up, capture yours today!</p></div>
-        </div>
-      </div>
-    </div>
-  </div>
+        
 
 </div>
 
 </div>
-</body>
-</html>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>

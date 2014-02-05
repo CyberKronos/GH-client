@@ -1,5 +1,8 @@
-<?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
-
+<?php 
+include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php');
+$cachefile = "C:/xampp/htdocs/GH-client/cache/". basename(__FILE__, '.php') ."_cache.php"; 
+include('C:/xampp/htdocs/GH-client/assets/includes/cache-open.php');
+?>
 
 <div class="client-pin">
   <h4 class="title"><b>Server Status</b></h4>
@@ -57,8 +60,10 @@
  	</div>
 </div>
 
-</body>
-</html>
+<?php 
+include('C:/xampp/htdocs/GH-client/assets/includes/cache-close.php'); 
+include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); 
+?>
 
 
   

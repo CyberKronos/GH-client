@@ -9,7 +9,7 @@ for item in root.findall('item'):
   table_rankings = item.find('table_rankings').find('value').text
 
   html_string = """
-  <?php include('C:/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+  <?php include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php'); ?>
   <div class='client-pin'>
     <h4 class='title'><b> """ + tournament_name.encode('utf-8','ignore') + """ </b></h4>
     <h5 class='sub-title'><b>Season Rankings</b></h5>
@@ -21,10 +21,7 @@ for item in root.findall('item'):
       <div> """ + table_rankings.encode('utf-8','ignore') + """ </div>
     </div>
   </div>
-
-  </div>
-  </body>
-  </html>
+  <?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>
   """
   tournament_name = tournament_name.replace(' ','_')
   tournament_name = tournament_name.lower()

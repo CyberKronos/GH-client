@@ -13,7 +13,7 @@ for item in root.findall('item'):
 	desc = desc.replace(' style="color: #FFDB4C;"', '') 
 
 	html_string = """
-<?php include('C:/Program Files (x86)/xampp/htdocs/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php'); ?>
 <div class='client-pin'>
   <h4 class='title'><b>""" + title + """</b></h4>
   <h5 class='sub-title'><b>Item Wiki</b></h5>
@@ -25,9 +25,7 @@ for item in root.findall('item'):
   """ + desc + """
   </div>
 </div>
-</div>
-</body>
-</html>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>
 """
 	title = title.replace(' ','_')
 	title = title.lower()

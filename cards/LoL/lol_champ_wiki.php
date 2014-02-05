@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php'); ?>
 <div class="client-pin">
   <h4 class="title"><b>Aatrox</b></h4>
   <h5 class="sub-title"><b>Champion Wiki</b></h5> 
@@ -143,14 +143,10 @@
 </p>
 </div>
           </p>
-        </div>
-      </div>
-    </div>
-  </div>
+        
   
 </div>
 
 
 </div>
-</body>
-</html>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>

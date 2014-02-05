@@ -1,5 +1,5 @@
 
-<?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php'); ?>
 <div class='client-pin'>
   <h4 class='title'><b>Patch 4.1 Notes</b></h4>
   <h5 class='sub-title'><b>Patch</b></h5>
@@ -11,15 +11,10 @@
     <div>   </div>
   </div>
   <br/>
-  <div class='accordion' id='accordion2'>
-    <div class='accordion-group'>
-      <div class='accordion-heading'>
-        <a class='accordion-toggle' data-toggle='collapse' data-parent='#accordion2' href='#collapseOne'>
+  <div class="viewmore">
           View More
-        </a>
-      </div>
-      <div id='collapseOne' class='accordion-body collapse'>
-        <div class='accordion-inner'>
+        </div>
+        <div class="viewmore-content">
           <div class="field field-name-body field-type-text-with-summary field-label-hidden"><link rel="stylesheet" type="text/css" href="http://riot-web-static.s3.amazonaws.com/images/news/Patch_Notes_Icons/styles/champ-icons_new.css"><div class="pn_wrapper">
 	<div class="content-border">
 		<div class="white-stone">
@@ -790,13 +785,9 @@
 		<a href="#">Back to top</a>
 	</p>
 </div></div>
-        </div>
-      </div>
-    </div>
-  </div>
+        
 
 </div>
 
 </div>
-</body>
-</html>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>

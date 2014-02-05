@@ -1,6 +1,8 @@
-<?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php 
+include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php');
+$cachefile = "C:/xampp/htdocs/GH-client/cache/". basename(__FILE__, '.php') ."_cache.php";
+include('C:/xampp/htdocs/GH-client/assets/includes/cache-open.php');
 
-<?php
 $json = file_get_contents("http://api.justin.tv/api/stream/list.json?category=gaming&meta_game=League%20of%20Legends");
 
 $elements = json_decode($json);
@@ -34,7 +36,8 @@ $elements = json_decode($json);
   </div>
 </div>
 
-</body>
-</html>
-  
+<?php 
+include('C:/xampp/htdocs/GH-client/assets/includes/cache-close.php');
+include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); 
+?>
 

@@ -1,5 +1,5 @@
 
-<?php include($_SERVER['DOCUMENT_ROOT'].'/GH-client/assets/inc/incfiles/client-header.inc.php'); ?>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-header.php'); ?>
 <div class='client-pin'>
   <h4 class='title'><b>Embrace the truth as Lunar Goddess Diana</b></h4>
   <h5 class='sub-title'><b>Skin Preview</b></h5>
@@ -13,15 +13,10 @@
 </div> </div>
   </div>
   <br/>
-  <div class='accordion' id='accordion2'>
-    <div class='accordion-group'>
-      <div class='accordion-heading'>
-        <a class='accordion-toggle' data-toggle='collapse' data-parent='#accordion2' href='#collapseOne'>
+  <div class="viewmore">
           View More
-        </a>
-      </div>
-      <div id='collapseOne' class='accordion-body collapse'>
-        <div class='accordion-inner'>
+        </div>
+        <div class="viewmore-content">
           <div class="field field-name-body field-type-text-with-summary field-label-hidden"><p>Prophecy tells of the lotus cycle, where the flower endures humble beginnings in mud and one day blooms in perfect beauty.</p>
 
 <p>Facing fierce persecution at every turn, a woman toiled among the laborers, the weak and the broken. In the shell of an ancient lunar temple, she uncovered a crescent blade slung across golden armor inscribed with blown lotus petals. A soft voice sang when she grasped the hilt of the weapon, lilting with honest knowledge. She was struck by a vision of a warrior goddess wearing the gilded regalia. Stirred by the truth in the moon’s hymn, she lifted the sword.</p>
@@ -36,13 +31,9 @@
 
 
 <p>Complete the cycle of the lotus as <a href="http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_2.jpg" class="lightbox cboxElement"><strong>Lunar Goddess Diana</strong></a> for <strong>975 RP</strong>, launching alongside Lunar Revel and remaining available for good.</p></div>
-        </div>
-      </div>
-    </div>
-  </div>
+        
 
 </div>
 
 </div>
-</body>
-</html>
+<?php include('C:/xampp/htdocs/GH-client/assets/includes/client-footer.php'); ?>
