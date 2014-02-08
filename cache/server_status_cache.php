@@ -20,9 +20,9 @@
 	        	</div>
         	
         		<div class='server-status'>
-	        		<div class='region-name'> Public Beta Server </div>
-	        		<div class='region-status-online'> Online </div>
-	        	</div>
+        			<div class='region-name'> Public Beta Server </div>
+        			<div class='region-status-offline'> Offline </div>
+        		</div>
         	
         		<div class='server-status'>
 	        		<div class='region-name'> Korea </div>
