@@ -12,11 +12,12 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/nightblue3">TSM Nightblue S4 Challenger Solo Queue | S3 NA Challenger |  Q&A During Queue Times | Showing you how to gain elo | Jungle Main | </a></h5>
-        <div class="streams-subheader">0 Viewers on nightblue3</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/phantoml0rd">PhantomL0rd ~ <3  VALENTINES DAY SPECIAL!  (Happy Solo Fap Day)
+</a></h5>
+        <div class="streams-subheader">0 Viewers on phantoml0rd</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/nightblue3">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_nightblue3-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/phantoml0rd">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_phantoml0rd-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -25,20 +26,7 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/trick2g">Legedary Bronze Game Live Tricky2b - Special Subwars - Team Kobe "ziggs" vs Team Jordan "Khazix" - Such fun - New Emotes</a></h5>
-        <div class="streams-subheader">0 Viewers on trick2g</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/trick2g">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_trick2g-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/flosd">Boxbox</a></h5>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/flosd">Boxbox - Happy Valentines Day!</a></h5>
         <div class="streams-subheader">0 Viewers on flosd</div>
         <div class="streams-image">
           <a target="_blank" href="http://www.justin.tv/flosd">
@@ -51,11 +39,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/jungleknife">[TW] 打野刀 D1 Jungler 打到菁英才睡</a></h5>
-        <div class="streams-subheader">0 Viewers on jungleknife</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/goodguygarry">ᕙ༼ຈل͜ຈ༽ᕗ BRONZE TO CHALLENGER WITH GARRY ᕙ༼ຈل͜ຈ༽ᕗ     playing Solo Queue on my Latin America North Account because HUE  HUE HUE : )</a></h5>
+        <div class="streams-subheader">0 Viewers on goodguygarry</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/jungleknife">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_jungleknife-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/goodguygarry">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_goodguygarry-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -64,11 +52,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/lmqibuypower">LMQ tc weixiao NA top5 challenger solo q </a></h5>
-        <div class="streams-subheader">0 Viewers on lmqibuypower</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/nightblue3">TSM Nightblue , I Will be your Valentine!!! | S3 NA Challenger | Q&A During Queue Times | Showing you how to gain elo | Jungle Main | </a></h5>
+        <div class="streams-subheader">0 Viewers on nightblue3</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/lmqibuypower">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_lmqibuypower-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/nightblue3">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_nightblue3-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -77,11 +65,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/still_sleepy">Still_Sleepy - TW 菁英Challenger Main Vladimir- 愛涵涵的睡睡兒噎! - Day57</a></h5>
-        <div class="streams-subheader">0 Viewers on still_sleepy</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/axtlol">aXte - Jungle BR - challenger , Jogando na smurf diamante.</a></h5>
+        <div class="streams-subheader">0 Viewers on axtlol</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/still_sleepy">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_still_sleepy-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/axtlol">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_axtlol-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -90,11 +78,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/ice123456701">S4菁英上路蠻王 早上起來刷個牙  </a></h5>
-        <div class="streams-subheader">0 Viewers on ice123456701</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/znipes">Plat to Challenger | Learn how to Climb | ADC main | Q&A during QUE</a></h5>
+        <div class="streams-subheader">0 Viewers on znipes</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/ice123456701">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_ice123456701-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/znipes">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_znipes-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -103,11 +91,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/cnotbusch">Sculpting Blood Lord Vlad/ Nocturne for Donor Giveaway ! new people please read FAQ!</a></h5>
-        <div class="streams-subheader">0 Viewers on cnotbusch</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/nesl_lol">C9 vs Crossover ES - Week 2 - EPS S9</a></h5>
+        <div class="streams-subheader">0 Viewers on nesl_lol</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/cnotbusch">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_cnotbusch-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/nesl_lol">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_nesl_lol-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -116,7 +104,20 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/sovitia">Sovitia :3 Hangout Sesh</a></h5>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/eslatv">[Español] Destroy Gaming vs Borrowed Time Fase final - Liga Mexicana</a></h5>
+        <div class="streams-subheader">0 Viewers on eslatv</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/eslatv">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_eslatv-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/sovitia">Sovitia :3 Valentines Edition xo</a></h5>
         <div class="streams-subheader">0 Viewers on sovitia</div>
         <div class="streams-image">
           <a target="_blank" href="http://www.justin.tv/sovitia">
@@ -129,11 +130,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/pobelter">EG Pobelter Challenger solo q</a></h5>
-        <div class="streams-subheader">0 Viewers on pobelter</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/novaxlol"> 諾爾-菁英輔助     [TW SER]  Challenger SUP  </a></h5>
+        <div class="streams-subheader">0 Viewers on novaxlol</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/pobelter">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_pobelter-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/novaxlol">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_novaxlol-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -142,11 +143,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/krazyness">[Spanish/English] Krazyness LAS.</a></h5>
-        <div class="streams-subheader">0 Viewers on krazyness</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/ioddorange">TheOddOrange- Duo w/ EGAD :) Diamond 1 92 LP</a></h5>
+        <div class="streams-subheader">0 Viewers on ioddorange</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/krazyness">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_krazyness-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/ioddorange">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_ioddorange-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -155,11 +156,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/missmiarose">Struggle Snuggle with Mia </a></h5>
-        <div class="streams-subheader">0 Viewers on missmiarose</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/dandinh">Dan Dinh D1 78 LP</a></h5>
+        <div class="streams-subheader">0 Viewers on dandinh</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/missmiarose">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_missmiarose-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/dandinh">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_dandinh-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -168,11 +169,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/machinegunnerusmc">Ranked Duo  Q Gold Smurf    Best Thresh Bangladesh /NA With Random RP Give Aways</a></h5>
-        <div class="streams-subheader">0 Viewers on machinegunnerusmc</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/rohammers">Rohammers - Climbing Challenger ranks with my right hand; Valentines day with heavyl0rd; double jerkoff</a></h5>
+        <div class="streams-subheader">0 Viewers on rohammers</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/machinegunnerusmc">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_machinegunnerusmc-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/rohammers">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_rohammers-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -181,11 +182,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/bigfatlp">bigfatlpjiji [ENG/中文] -challenger gaims~ learning yasuol0l when its up.</a></h5>
-        <div class="streams-subheader">0 Viewers on bigfatlp</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/only_jaximus">-:Only Jaximus:-  Bronze-Challenger Marathon! Happy VDay! Currently Silver 5</a></h5>
+        <div class="streams-subheader">0 Viewers on only_jaximus</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/bigfatlp">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_bigfatlp-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/only_jaximus">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_only_jaximus-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -194,11 +195,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/dunnaz">[BR] CG Dunnaz - ESQUADRÃO PLATINA</a></h5>
-        <div class="streams-subheader">0 Viewers on dunnaz</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/iijeriichoii">League of Couples! Valentine Stream w/OMGitsFirefoxx!</a></h5>
+        <div class="streams-subheader">0 Viewers on iijeriichoii</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/dunnaz">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_dunnaz-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/iijeriichoii">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_iijeriichoii-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -207,7 +208,111 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/roflgator">Support Challenge: Diamond 5 to 1 in 1 week. Go hard or go bronze. (Metal/boobs/AMA)</a></h5>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/gwesgg2">【開台中】Gwes 1080P阿卡莉高清無碼 認真模式</a></h5>
+        <div class="streams-subheader">0 Viewers on gwesgg2</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/gwesgg2">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_gwesgg2-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/pawnce">Pawnce's Vel'Koz PBE LoL Stream: Spamming Vel'Koz for you guys 02/14/14 Edition!</a></h5>
+        <div class="streams-subheader">0 Viewers on pawnce</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/pawnce">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_pawnce-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/qbixxxxx">[GER/ENG]DuoQ Platin Rush</a></h5>
+        <div class="streams-subheader">0 Viewers on qbixxxxx</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/qbixxxxx">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_qbixxxxx-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/grabagra">[1080p PL/ENG] SUPP + ADC CHALLENGER ROAD! (m)</a></h5>
+        <div class="streams-subheader">0 Viewers on grabagra</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/grabagra">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_grabagra-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/aclprolol">ACL Online Round 1 - 2014 - League of Legends</a></h5>
+        <div class="streams-subheader">0 Viewers on aclprolol</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/aclprolol">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_aclprolol-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/vernnotice">nah</a></h5>
+        <div class="streams-subheader">0 Viewers on vernnotice</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/vernnotice">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_vernnotice-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/coscuuu">【ESPAÑOL】Coscu (◕ω◕) Best Shaco LAS ® Season 4 inc</a></h5>
+        <div class="streams-subheader">0 Viewers on coscuuu</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/coscuuu">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_coscuuu-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/omgitsfirefoxx">Omgitsfirefoxx VALENTINE'S DAY STREAM <3</a></h5>
+        <div class="streams-subheader">0 Viewers on omgitsfirefoxx</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/omgitsfirefoxx">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_omgitsfirefoxx-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/roflgator">How to support in all elos. Diamond 1 support having some fun on smurf.</a></h5>
         <div class="streams-subheader">0 Viewers on roflgator</div>
         <div class="streams-image">
           <a target="_blank" href="http://www.justin.tv/roflgator">
@@ -220,11 +325,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/ahlexah">Alexa - Diamond 1 ADC/Supportish</a></h5>
-        <div class="streams-subheader">0 Viewers on ahlexah</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/ggcolombia">[Español][Dia ] Liga Nacional Colombia -Bronx Gaming vs B Rabbit Gaming - Grupo Finalistas</a></h5>
+        <div class="streams-subheader">0 Viewers on ggcolombia</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/ahlexah">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_ahlexah-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/ggcolombia">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_ggcolombia-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -233,11 +338,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/gamezet_show">Pashka League of Legends</a></h5>
-        <div class="streams-subheader">0 Viewers on gamezet_show</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/salce">Tjsalce </a></h5>
+        <div class="streams-subheader">0 Viewers on salce</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/gamezet_show">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_gamezet_show-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/salce">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_salce-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -246,198 +351,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/gg_anjii">Anji Streamu untz untz untz  (ﾉ◕‿◕)ﾉ</a></h5>
-        <div class="streams-subheader">0 Viewers on gg_anjii</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/pekingaming">Pekin Woof - Challenger Mid - Happy Valentines Day - Nidalee Master</a></h5>
+        <div class="streams-subheader">0 Viewers on pekingaming</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/gg_anjii">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_gg_anjii-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/wrathofg0d">Noelonely  - [TW SER]     諾爾輔助台</a></h5>
-        <div class="streams-subheader">0 Viewers on wrathofg0d</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/wrathofg0d">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_wrathofg0d-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/lunerf">Lunefe (BR) | Challenger | Solo Q</a></h5>
-        <div class="streams-subheader">0 Viewers on lunerf</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/lunerf">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_lunerf-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/aimzatchu">Battle Bunny Riven Cosplay ;D AimzAtchu</a></h5>
-        <div class="streams-subheader">0 Viewers on aimzatchu</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/aimzatchu">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_aimzatchu-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/ninja">Ranked Solo q with Professional halo player Ninja! Follow my twitter @NinjaPGL</a></h5>
-        <div class="streams-subheader">0 Viewers on ninja</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/ninja">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_ninja-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/xlikexadream">奇奇小可愛 ///  帶觀眾雙排一人一場</a></h5>
-        <div class="streams-subheader">0 Viewers on xlikexadream</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/xlikexadream">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_xlikexadream-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/imizuna">[Español] Challenger / Subiendo cuenta Nueva :D</a></h5>
-        <div class="streams-subheader">0 Viewers on imizuna</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/imizuna">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_imizuna-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/castyy">~ Castaway ~ NORMAL FUNTIMES....also LF pro support/duo :]</a></h5>
-        <div class="streams-subheader">0 Viewers on castyy</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/castyy">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_castyy-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/masterzedx">Plat II chillin w/ da Akali </a></h5>
-        <div class="streams-subheader">0 Viewers on masterzedx</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/masterzedx">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_masterzedx-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/thepyjack">Mechanics practice and learning champs/positions!</a></h5>
-        <div class="streams-subheader">0 Viewers on thepyjack</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/thepyjack">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_thepyjack-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/s9407200">I'm Specter 。SoloQ 。 S3:鑽1   目前S4:鑽V 
-
-"徵白金、金雙排學徒，想學東西者內詳，會SK交談。銀排也可意志堅強者請進"
-
-
-</a></h5>
-        <div class="streams-subheader">0 Viewers on s9407200</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/s9407200">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_s9407200-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/smittyw">Smitty Diamond I LAS </a></h5>
-        <div class="streams-subheader">0 Viewers on smittyw</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/smittyw">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_smittyw-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/rustlingrose">RP Giveaways! Lolcache beta giveaway! Viewer Appreciation Day! </a></h5>
-        <div class="streams-subheader">0 Viewers on rustlingrose</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/rustlingrose">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_rustlingrose-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/tinchi6430">TW challenger YCSM Smoker  阿雞  有點歌功能</a></h5>
-        <div class="streams-subheader">0 Viewers on tinchi6430</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/tinchi6430">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_tinchi6430-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/blackrat5520">Passion of the League</a></h5>
-        <div class="streams-subheader">0 Viewers on blackrat5520</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/blackrat5520">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_blackrat5520-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/pekingaming">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_pekingaming-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -459,11 +377,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/dadyrus">Dadyrus -  Streaming Live!</a></h5>
-        <div class="streams-subheader">0 Viewers on dadyrus</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/mantastlc">CLAUDIA - VIEWER GAMES! come join :) happy single awareness day all <3 </a></h5>
+        <div class="streams-subheader">0 Viewers on mantastlc</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/dadyrus">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_dadyrus-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/mantastlc">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_mantastlc-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -472,11 +390,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/gringovich">(Día 177 - 365) / Reto de un año de Streaming /</a></h5>
-        <div class="streams-subheader">0 Viewers on gringovich</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/imuffinsx3">ʕ´▽`ʔ real life tibbers + RP</a></h5>
+        <div class="streams-subheader">0 Viewers on imuffinsx3</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/gringovich">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_gringovich-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/imuffinsx3">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_imuffinsx3-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -485,7 +403,72 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/turtlegg">TurtleGG YoloQ on BR server *no mic</a></h5>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/hunteraria">冰祁麟，菁英雷包AD玩家 【認真戳Rank分數】</a></h5>
+        <div class="streams-subheader">0 Viewers on hunteraria</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/hunteraria">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_hunteraria-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/ahlexah">Alexa | S4 Diamond 1 ADC | Diamond 5 Smurf :D </a></h5>
+        <div class="streams-subheader">0 Viewers on ahlexah</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/ahlexah">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_ahlexah-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/elementz">Diamond 2 99 LP Support MAIN Player - Doing 5's </a></h5>
+        <div class="streams-subheader">0 Viewers on elementz</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/elementz">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_elementz-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/castyy">~ Castaway ~ vday stream <3</a></h5>
+        <div class="streams-subheader">0 Viewers on castyy</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/castyy">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_castyy-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/knaxta">Plat 1 LeBlanc! - Playing some normals with friends - Fun Stream!</a></h5>
+        <div class="streams-subheader">0 Viewers on knaxta</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/knaxta">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_knaxta-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/turtlegg">TurtleGG SoloQ BR</a></h5>
         <div class="streams-subheader">0 Viewers on turtlegg</div>
         <div class="streams-image">
           <a target="_blank" href="http://www.justin.tv/turtlegg">
@@ -498,11 +481,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/vondill_">RP GIVEAWAY TONIGHT!!! Tryndamania! - Vondill - Top Lane</a></h5>
-        <div class="streams-subheader">0 Viewers on vondill_</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/rflegendary">Challenger Toplane RF Legendary -  on smurf atm - Happy Valentines Day All !!! - Currently teamless </a></h5>
+        <div class="streams-subheader">0 Viewers on rflegendary</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/vondill_">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_vondill_-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/rflegendary">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_rflegendary-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -511,11 +494,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/baby90206">【NaNa】認真歡樂的積分 ♥ 惡夢來啦 ~</a></h5>
-        <div class="streams-subheader">0 Viewers on baby90206</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/hashinshin">#14 Challenger. Going for the top 10 slot as Jax. And sometimes also as me. </a></h5>
+        <div class="streams-subheader">0 Viewers on hashinshin</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/baby90206">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_baby90206-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/hashinshin">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_hashinshin-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -524,11 +507,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/pms_unforgiven">RP GIVEAWAY! Felisha Reaching For Gold! Emotes Have Arrived! Come hang out :D</a></h5>
-        <div class="streams-subheader">0 Viewers on pms_unforgiven</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/immimiwinds">看膩女神了嗎?窩4超自然系女孩</a></h5>
+        <div class="streams-subheader">0 Viewers on immimiwinds</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/pms_unforgiven">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_pms_unforgiven-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/immimiwinds">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_immimiwinds-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -537,11 +520,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/shaskolive">[ESPAÑOL]  Road to Diamond? - Platino V</a></h5>
-        <div class="streams-subheader">0 Viewers on shaskolive</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/blackrat5520">Passion of the League</a></h5>
+        <div class="streams-subheader">0 Viewers on blackrat5520</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/shaskolive">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_shaskolive-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/blackrat5520">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_blackrat5520-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -550,11 +533,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/q29262536">HKA.M SoCool TW server Challenger JG</a></h5>
-        <div class="streams-subheader">0 Viewers on q29262536</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/fatefalls">Fishing for urf! Climbing to challenger WITHOUT FIZZ :O Diamond 1</a></h5>
+        <div class="streams-subheader">0 Viewers on fatefalls</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/q29262536">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_q29262536-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/fatefalls">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_fatefalls-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -563,20 +546,7 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/panyuyu">TW Ashley魚兒 .觀眾TIME~</a></h5>
-        <div class="streams-subheader">0 Viewers on panyuyu</div>
-        <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/panyuyu">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_panyuyu-320x240.jpg" />
-          </a>
-        </div>
-        <hr/>
-      </div>
-          <div class="streams-container">
-        <!-- $channel = get_object_vars($element->channel);
-        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
-
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/iamlod">LOD    -   ADC Team LoLPro | Curse Sub</a></h5>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/iamlod">LoLPro LOD - Challenger ADC S3/S4 - Happy VALENTINES Day! <3 - Playing Ranked 5's!</a></h5>
         <div class="streams-subheader">0 Viewers on iamlod</div>
         <div class="streams-image">
           <a target="_blank" href="http://www.justin.tv/iamlod">
@@ -589,11 +559,12 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/resetking">Reset King - Best AP Tristana NA - Bronze 5 to Diamond 1 + Duoing with Viewers as I Pass By</a></h5>
-        <div class="streams-subheader">0 Viewers on resetking</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/a01144330">「」菁英517分「」 solorank中  TW
+</a></h5>
+        <div class="streams-subheader">0 Viewers on a01144330</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/resetking">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_resetking-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/a01144330">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_a01144330-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -602,11 +573,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/leealenone00000">LOLtw S3鑽 I,ID:欸匿名 S4剛升鑽(雙排中)</a></h5>
-        <div class="streams-subheader">0 Viewers on leealenone00000</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/machiplay">Machi E-Sports Channel machi rainer on live</a></h5>
+        <div class="streams-subheader">0 Viewers on machiplay</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/leealenone00000">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_leealenone00000-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/machiplay">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_machiplay-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -615,11 +586,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/hastad">M3 hastad - ADC - Diamante 1 - [LAS-BR]</a></h5>
-        <div class="streams-subheader">0 Viewers on hastad</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/shoujoai">NBD Akuma D1 NA Support - Duo with Slooshi's typewriter</a></h5>
+        <div class="streams-subheader">0 Viewers on shoujoai</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/hastad">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_hastad-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/shoujoai">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_shoujoai-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -628,11 +599,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/uminokaiju">Umi No Kaiju - I am a ninja [NA]</a></h5>
-        <div class="streams-subheader">0 Viewers on uminokaiju</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/basickz">Bronze action let's get some 20 bombz</a></h5>
+        <div class="streams-subheader">0 Viewers on basickz</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/uminokaiju">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_uminokaiju-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/basickz">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_basickz-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -641,11 +612,11 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/erazerlol">[Español] Bronce a Diamante - Rifa de 975 RP a los 200 Viewers.</a></h5>
-        <div class="streams-subheader">0 Viewers on erazerlol</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/malufoxy">MALUFOXY - OPEN</a></h5>
+        <div class="streams-subheader">0 Viewers on malufoxy</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/erazerlol">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_erazerlol-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/malufoxy">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_malufoxy-320x240.jpg" />
           </a>
         </div>
         <hr/>
@@ -654,11 +625,38 @@
         <!-- $channel = get_object_vars($element->channel);
         print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
 
-        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/aplatypuss">RAFFLES AND JUST GOT BACK FROM LCS, SHOUTCASTING IN HOUSE MVP GAMES. </a></h5>
-        <div class="streams-subheader">0 Viewers on aplatypuss</div>
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/reiskornchen">(GER)Reiskornchen SUB BUTTON ON! 24-Stunden.GIVEAWAYS  Ranked mit Viewern und noch anderes :) </a></h5>
+        <div class="streams-subheader">0 Viewers on reiskornchen</div>
         <div class="streams-image">
-          <a target="_blank" href="http://www.justin.tv/aplatypuss">
-            <img src="http://static-cdn.jtvnw.net/previews/live_user_aplatypuss-320x240.jpg" />
+          <a target="_blank" href="http://www.justin.tv/reiskornchen">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_reiskornchen-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/hazukisc2">CUSTOM CON VIEWERS ;D</a></h5>
+        <div class="streams-subheader">0 Viewers on hazukisc2</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/hazukisc2">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_hazukisc2-320x240.jpg" />
+          </a>
+        </div>
+        <hr/>
+      </div>
+          <div class="streams-container">
+        <!-- $channel = get_object_vars($element->channel);
+        print_r(array_keys($channel)); // Use this to print out all available keys for the channel array -->
+
+        <h5 class="streams-header"><a target="_blank" href="http://www.justin.tv/gga893879">鑽石一區 GoD_小狗 專職AD/SUP 狗DD台 單排
+中 菁英</a></h5>
+        <div class="streams-subheader">0 Viewers on gga893879</div>
+        <div class="streams-image">
+          <a target="_blank" href="http://www.justin.tv/gga893879">
+            <img src="http://static-cdn.jtvnw.net/previews/live_user_gga893879-320x240.jpg" />
           </a>
         </div>
         <hr/>

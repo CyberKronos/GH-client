@@ -240,57 +240,78 @@
           <div class="tab-content">
             <div class="tab-pane active" id="sub-tab-masteries1">
               <h5>21/9/0</h5>
-              <img src="assets/images/masteries/ADC-21-9-0.jpg">
-              
+              <a href="http://i.imgur.com/6prdzyW.jpg">
+                <img src="assets/images/masteries/ADC-21-9-0.jpg">
+              </a>
+
               <hr/>
 
               <h5>21/0/9</h5>
-              <img src="assets/images/masteries/ADC-21-0-9.jpg">
+              <a href="http://i.imgur.com/bVjh48x.jpg">
+                <img src="assets/images/masteries/ADC-21-0-9.jpg">
+              </a>
             </div>
 
             <div class="tab-pane" id="sub-tab-masteries2">
               <h5>21/9/0</h5>
-              <img src="assets/images/masteries/AP-21-9-0.jpg">
-              
+              <a href="http://i.imgur.com/LW3mdct.jpg">
+                <img src="assets/images/masteries/AP-21-9-0.jpg">
+              </a>
               <hr/>
 
               <h5>21/0/9</h5>
-              <img src="assets/images/masteries/AP-21-0-9.jpg">
+              <a href="http://i.imgur.com/hoySXH5.jpg">
+                <img src="assets/images/masteries/AP-21-0-9.jpg">
+              </a>
             </div>
 
             <div class="tab-pane" id="sub-tab-masteries3">
               <h5>9/21/0 - AD-based</h5>
-              <img src="assets/images/masteries/TopAD-9-21-0.jpg">
-              
+              <a href="http://i.imgur.com/cYd6UWB.jpg">
+                <img src="assets/images/masteries/TopAD-9-21-0.jpg">
+              </a>
+
               <hr/>
 
               <h5>9/21/0 - AP-based</h5>
-              <img src="assets/images/masteries/TopAP-9-21-0.jpg">
+              <a href="http://i.imgur.com/TYHeQO2.jpg">
+                <img src="assets/images/masteries/TopAP-9-21-0.jpg">
+              </a>
             </div>
 
             <div class="tab-pane" id="sub-tab-masteries4">
               <h5>9/21/0 - AD-based</h5>
-              <img src="assets/images/masteries/JunglerAD-9-21-0.jpg">
-              
+              <a href="http://i.imgur.com/pOUvm3M.jpg">
+                <img src="assets/images/masteries/JunglerAD-9-21-0.jpg">
+              </a>
+
               <hr/>
 
               <h5>9/21/0 - AP-based</h5>
-              <img src="assets/images/masteries/JunglerAP-9-21-0.jpg">
+              <a href="http://i.imgur.com/iFOlGn3.jpg">
+                <img src="assets/images/masteries/JunglerAP-9-21-0.jpg">
+              </a>
             </div>
 
             <div class="tab-pane" id="sub-tab-masteries5">
               <h5>4/5/21</h5>
-              <img src="assets/images/masteries/Support-4-5-21.jpg">
-              
+              <a href="http://i.imgur.com/mRtgvNu.jpg">
+                <img src="assets/images/masteries/Support-4-5-21.jpg">
+              </a>
+
               <hr/>
 
               <h5>9/0/21 - AP-based</h5>
-              <img src="assets/images/masteries/SupportAP-9-0-21.jpg">
-              
+              <a href="http://i.imgur.com/LY1mZTt.jpg">
+                <img src="assets/images/masteries/SupportAP-9-0-21.jpg">
+              </a>
+
               <hr/>
 
               <h5>0/9/21</h5>
-              <img src="assets/images/masteries/Support-0-9-21.jpg">
+              <a href="http://i.imgur.com/Bl3Xxbs.jpg">
+                <img src="assets/images/masteries/Support-0-9-21.jpg">
+              </a>
             </div>
           </div>
         </div>
